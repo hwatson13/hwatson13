@@ -46,7 +46,7 @@ def main():
             print("1. View avaiable songs and their lyrics")
             print("2. Search for songs containing a keyword in lyrics")
             print("3. Exit")
-            choice = int(input("Enter your choice:"))
+            choice = int(input("Enter your choice: "))
 
             if choice ==1:
                 print("Available songs: ")
