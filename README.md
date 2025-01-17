@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hwatson13
 - 👀 I’m interested in anything with numbers, math, and statistics
-- 🌱 I’m currently learning how to work with Java, SQL, and GitHub on a higher level.
+- 🌱 I’m currently learning to work on a higher level with Java, SQL, and GitHub.
 - 💞️ I’m looking to collaborate on intermediate projects
-- 📫 How to reach me hwatso13@uncc.edu
+- 📫 How to reach me hwatso13@charlotte.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love Disney World!
 
