@@ -1,0 +1,905 @@
+,playername,position1,position2,team,gp,g,a,tp,ppg,pim,+/-,link
+0,Nikita Kucherov ,RW,RW,Tampa Bay Lightning,69,33,76,109,1.58,43,21,https://www.eliteprospects.com/player/77237/nikita-kucherov
+1,Nathan MacKinnon ,C,RW,Colorado Avalanche,74,30,79,109,1.47,39,27,https://www.eliteprospects.com/player/99204/nathan-mackinnon
+2,Leon Draisaitl ,C,W,Edmonton Oilers,69,51,53,104,1.51,34,33,https://www.eliteprospects.com/player/71913/leon-draisaitl
+3,Jack Eichel ,C,C,Vegas Golden Knights,72,27,66,93,1.29,6,35,https://www.eliteprospects.com/player/191959/jack-eichel
+4,Mitchell Marner ,RW,C,Toronto Maple Leafs,73,23,68,91,1.25,14,10,https://www.eliteprospects.com/player/223194/mitchell-marner
+5,Kyle Connor ,LW,LW,Winnipeg Jets,74,38,52,90,1.22,25,16,https://www.eliteprospects.com/player/177671/kyle-connor
+6,Connor McDavid ,C,LW,Edmonton Oilers,63,26,64,90,1.43,31,11,https://www.eliteprospects.com/player/183442/connor-mcdavid
+7,David Pastrnak ,RW,LW,Boston Bruins,74,35,51,86,1.16,38,-10,https://www.eliteprospects.com/player/130383/david-pastrnak
+8,Jesper Bratt ,LW,RW,New Jersey Devils,75,20,66,86,1.15,16,8,https://www.eliteprospects.com/player/117698/jesper-bratt
+9,Cale Makar ,D,D,Colorado Avalanche,74,27,57,84,1.14,14,29,https://www.eliteprospects.com/player/199655/cale-makar
+10,Mark Scheifele ,C,C,Winnipeg Jets,74,36,45,81,1.09,57,12,https://www.eliteprospects.com/player/75379/mark-scheifele
+11,Brandon Hagel ,LW,LW,Tampa Bay Lightning,73,33,48,81,1.11,50,30,https://www.eliteprospects.com/player/161843/brandon-hagel
+12,Mikko Rantanen ,W,C,,73,31,50,81,1.11,56,13,https://www.eliteprospects.com/player/91186/mikko-rantanen
+13,Sidney Crosby ,C,C,Pittsburgh Penguins,73,27,54,81,1.11,29,-23,https://www.eliteprospects.com/player/6146/sidney-crosby
+14,Martin Necas ,C,RW,,74,26,54,80,1.08,14,8,https://www.eliteprospects.com/player/237071/martin-necas
+15,William Nylander ,W,C,Toronto Maple Leafs,74,42,37,79,1.07,24,6,https://www.eliteprospects.com/player/38703/william-nylander
+16,Artemi Panarin ,LW,LW,New York Rangers,72,33,46,79,1.10,16,-3,https://www.eliteprospects.com/player/24664/artemi-panarin
+17,Clayton Keller ,RW,LW,Utah Hockey Club,73,24,55,79,1.08,26,-12,https://www.eliteprospects.com/player/226432/clayton-keller
+18,Nick Suzuki ,C,C,Montreal Canadiens,73,23,54,77,1.05,6,10,https://www.eliteprospects.com/player/300436/nick-suzuki
+19,Sam Reinhart ,C,RW,Florida Panthers,73,36,40,76,1.04,27,8,https://www.eliteprospects.com/player/95032/sam-reinhart
+20,Jason Robertson ,LW,RW,Dallas Stars,73,33,42,75,1.03,14,12,https://www.eliteprospects.com/player/201455/jason-robertson
+21,Matt Duchene ,C,RW,Dallas Stars,73,28,46,74,1.01,10,14,https://www.eliteprospects.com/player/12571/matt-duchene
+22,Brayden Point ,C,C,Tampa Bay Lightning,68,38,35,73,1.07,2,15,https://www.eliteprospects.com/player/62204/brayden-point
+23,Lucas Raymond ,RW,RW,Detroit Red Wings,73,26,47,73,1.00,18,-12,https://www.eliteprospects.com/player/350702/lucas-raymond
+24,Jake Guentzel ,LW,LW,Tampa Bay Lightning,72,37,35,72,1.00,22,18,https://www.eliteprospects.com/player/199870/jake-guentzel
+25,Zach Werenski ,D,D,Columbus Blue Jackets,71,20,52,72,1.01,29,9,https://www.eliteprospects.com/player/186311/zach-werenski
+26,Travis Konecny ,RW,LW,Philadelphia Flyers,75,24,47,71,0.95,51,-13,https://www.eliteprospects.com/player/205148/travis-konecny
+27,Tim Stutzle ,LW,C,Ottawa Senators,73,21,50,71,0.97,34,-1,https://www.eliteprospects.com/player/348134/tim-stutzle
+28,Jack Hughes ,C,LW,New Jersey Devils,62,27,43,70,1.13,18,12,https://www.eliteprospects.com/player/305432/jack-hughes
+29,Dylan Strome ,C,C,Washington Capitals,73,23,47,70,0.96,28,4,https://www.eliteprospects.com/player/228107/dylan-strome
+30,Quinn Hughes ,D,D,Vancouver Canucks,60,16,54,70,1.17,29,6,https://www.eliteprospects.com/player/201671/quinn-hughes
+31,John Tavares ,C,LW,Toronto Maple Leafs,67,35,34,69,1.03,38,7,https://www.eliteprospects.com/player/9223/john-tavares
+32,Sebastian Aho ,C,W,Carolina Hurricanes,72,28,41,69,0.96,44,8,https://www.eliteprospects.com/player/152111/sebastian-aho
+33,Auston Matthews ,C,LW,Toronto Maple Leafs,59,29,39,68,1.15,20,3,https://www.eliteprospects.com/player/199898/auston-matthews
+34,Robert Thomas ,C,RW,St. Louis Blues,63,19,49,68,1.08,20,16,https://www.eliteprospects.com/player/201681/robert-thomas
+35,Filip Forsberg ,W,C,Nashville Predators,73,28,39,67,0.92,42,-18,https://www.eliteprospects.com/player/29626/filip-forsberg
+36,Aleksander Barkov ,C,C,Florida Panthers,63,19,48,67,1.06,14,-1,https://www.eliteprospects.com/player/50044/aleksander-barkov
+37,Wyatt Johnston ,C,RW,Dallas Stars,73,29,37,66,0.90,14,8,https://www.eliteprospects.com/player/201871/wyatt-johnston
+38,Kirill Marchenko ,RW,LW,Columbus Blue Jackets,69,28,38,66,0.96,20,25,https://www.eliteprospects.com/player/392162/kirill-marchenko
+39,Mark Stone ,RW,RW,Vegas Golden Knights,59,19,47,66,1.12,12,24,https://www.eliteprospects.com/player/32806/mark-stone
+40,Tage Thompson ,C,RW,Buffalo Sabres,67,38,27,65,0.97,33,-2,https://www.eliteprospects.com/player/301349/tage-thompson
+41,Alexei Protas ,C,C,Washington Capitals,73,30,35,65,0.89,18,40,https://www.eliteprospects.com/player/517438/alexei-protas
+42,Rickard Rakell ,W,C,Pittsburgh Penguins,74,32,32,64,0.86,12,-20,https://www.eliteprospects.com/player/17435/rickard-rakell
+43,Roope Hintz ,C,LW,Dallas Stars,67,27,37,64,0.96,24,19,https://www.eliteprospects.com/player/92117/roope-hintz
+44,Alexander Ovechkin ,LW,LW,Washington Capitals,57,37,26,63,1.11,14,17,https://www.eliteprospects.com/player/4230/alexander-ovechkin
+45,Cole Caufield ,LW,RW,Montreal Canadiens,73,34,29,63,0.86,14,5,https://www.eliteprospects.com/player/316168/cole-caufield
+46,Nikolaj Ehlers ,LW,LW,Winnipeg Jets,65,24,39,63,0.97,10,15,https://www.eliteprospects.com/player/66581/nikolaj-ehlers
+47,Nico Hischier ,C,LW,New Jersey Devils,69,33,29,62,0.90,20,11,https://www.eliteprospects.com/player/116244/nico-hischier
+48,Alex DeBrincat ,LW,RW,Detroit Red Wings,73,33,29,62,0.85,29,-15,https://www.eliteprospects.com/player/231275/alex-debrincat
+49,Jordan Kyrou ,C,RW,St. Louis Blues,75,31,31,62,0.83,18,21,https://www.eliteprospects.com/player/269034/jordan-kyrou
+50,Dylan Larkin ,C,C,Detroit Red Wings,73,28,34,62,0.85,38,-11,https://www.eliteprospects.com/player/177693/dylan-larkin
+51,Dylan Holloway ,W,C,St. Louis Blues,75,26,36,62,0.83,10,20,https://www.eliteprospects.com/player/322111/dylan-holloway
+52,Matt Boldy ,LW,RW,Minnesota Wild,74,24,38,62,0.84,45,-1,https://www.eliteprospects.com/player/375501/matt-boldy
+53,Pierre-Luc Dubois ,C,LW,Washington Capitals,73,19,43,62,0.85,58,30,https://www.eliteprospects.com/player/252480/pierre-luc-dubois
+54,Gabriel Vilardi ,C,RW,Winnipeg Jets,71,27,34,61,0.86,14,9,https://www.eliteprospects.com/player/286867/gabriel-vilardi
+55,Mikael Granlund ,C,W,,74,19,42,61,0.82,28,0,https://www.eliteprospects.com/player/16037/mikael-granlund
+56,Tom Wilson ,RW,RW,Washington Capitals,72,31,29,60,0.83,74,21,https://www.eliteprospects.com/player/98663/tom-wilson
+57,Adrian Kempe ,C,W,Los Angeles Kings,73,31,29,60,0.82,32,16,https://www.eliteprospects.com/player/86313/adrian-kempe
+58,J.T. Miller ,C,W,,64,19,41,60,0.94,53,-1,https://www.eliteprospects.com/player/38624/j.t.-miller
+59,Anze Kopitar ,C,C,Los Angeles Kings,73,18,42,60,0.82,2,9,https://www.eliteprospects.com/player/4233/anze-kopitar
+60,Tomas Hertl ,C,LW,Vegas Golden Knights,70,31,28,59,0.84,20,-3,https://www.eliteprospects.com/player/56038/tomas-hertl
+61,Ryan Donato ,C,W,Chicago Blackhawks,72,29,30,59,0.82,37,-17,https://www.eliteprospects.com/player/195235/ryan-donato
+62,JJ Peterka ,W,C,Buffalo Sabres,68,23,36,59,0.87,28,-2,https://www.eliteprospects.com/player/381855/jj-peterka
+63,Drake Batherson ,RW,C,Ottawa Senators,73,21,38,59,0.81,20,-9,https://www.eliteprospects.com/player/195192/drake-batherson
+64,Victor Hedman ,D,D,Tampa Bay Lightning,70,13,46,59,0.84,28,16,https://www.eliteprospects.com/player/6007/victor-hedman
+65,Lane Hutson ,D,D,Montreal Canadiens,73,5,54,59,0.81,34,-9,https://www.eliteprospects.com/player/526227/lane-hutson
+66,Nazem Kadri ,C,C,Calgary Flames,72,30,28,58,0.81,70,-17,https://www.eliteprospects.com/player/14728/nazem-kadri
+67,Seth Jarvis ,C,W,Carolina Hurricanes,66,29,29,58,0.88,12,11,https://www.eliteprospects.com/player/201952/seth-jarvis
+68,Jonathan Huberdeau ,LW,LW,Calgary Flames,72,27,31,58,0.81,34,-9,https://www.eliteprospects.com/player/45261/jonathan-huberdeau
+69,Connor Bedard ,C,LW,Chicago Blackhawks,74,20,38,58,0.78,62,-38,https://www.eliteprospects.com/player/535584/connor-bedard
+70,Evan Bouchard ,D,D,Edmonton Oilers,73,13,45,58,0.79,28,14,https://www.eliteprospects.com/player/300591/evan-bouchard
+71,Alex Tuch ,RW,C,Buffalo Sabres,73,31,26,57,0.78,40,11,https://www.eliteprospects.com/player/178526/alex-tuch
+72,Matthew Tkachuk ,LW,RW,Florida Panthers,52,22,35,57,1.10,54,-3,https://www.eliteprospects.com/player/233030/matthew-tkachuk
+73,Nick Schmaltz ,C,RW,Utah Hockey Club,74,17,40,57,0.77,12,-11,https://www.eliteprospects.com/player/156966/nick-schmaltz
+74,Rasmus Dahlin ,D,D,Buffalo Sabres,64,13,44,57,0.89,50,4,https://www.eliteprospects.com/player/310545/rasmus-dahlin
+75,Matvei Michkov ,RW,RW,Philadelphia Flyers,73,24,32,56,0.77,44,-14,https://www.eliteprospects.com/player/699375/matvei-michkov
+76,Teuvo Teravainen ,C,W,Chicago Blackhawks,74,15,41,56,0.76,12,-22,https://www.eliteprospects.com/player/44567/teuvo-teravainen
+77,Josh Morrissey ,D,D,Winnipeg Jets,73,12,44,56,0.77,22,12,https://www.eliteprospects.com/player/62293/josh-morrissey
+78,Adam Fox ,D,D,New York Rangers,66,9,47,56,0.85,30,11,https://www.eliteprospects.com/player/248380/adam-fox
+79,Brady Tkachuk ,LW,LW,Ottawa Senators,71,29,26,55,0.77,123,2,https://www.eliteprospects.com/player/201473/brady-tkachuk
+80,Bryan Rust ,RW,LW,Pittsburgh Penguins,64,26,29,55,0.86,18,-24,https://www.eliteprospects.com/player/20708/bryan-rust
+81,Logan Cooley ,C,LW,Utah Hockey Club,67,22,33,55,0.82,42,0,https://www.eliteprospects.com/player/651538/logan-cooley
+82,Marco Rossi ,C,C,Minnesota Wild,74,22,33,55,0.74,26,7,https://www.eliteprospects.com/player/293179/marco-rossi
+83,Connor McMichael ,C,C,Washington Capitals,73,25,29,54,0.74,28,26,https://www.eliteprospects.com/player/424496/connor-mcmichael
+84,William Eklund ,LW,C,San Jose Sharks,68,17,37,54,0.79,22,-7,https://www.eliteprospects.com/player/394719/william-eklund
+85,Macklin Celebrini ,C,LW,San Jose Sharks,61,21,32,53,0.87,24,-32,https://www.eliteprospects.com/player/597559/macklin-celebrini
+86,Anthony Cirelli ,C,C,Tampa Bay Lightning,71,26,26,52,0.73,26,25,https://www.eliteprospects.com/player/274875/anthony-cirelli
+87,Kirill Kaprizov ,LW,LW,Minnesota Wild,37,23,29,52,1.41,14,19,https://www.eliteprospects.com/player/265645/kirill-kaprizov
+88,Patrick Kane ,RW,RW,Detroit Red Wings,63,19,33,52,0.83,12,-14,https://www.eliteprospects.com/player/9326/patrick-kane
+89,Jared McCann ,C,W,Seattle Kraken,74,18,34,52,0.70,16,7,https://www.eliteprospects.com/player/189369/jared-mccann
+90,Dylan Guenther ,RW,LW,Utah Hockey Club,62,26,25,51,0.82,24,-5,https://www.eliteprospects.com/player/476538/dylan-guenther
+91,Bo Horvat ,C,C,New York Islanders,72,24,27,51,0.71,12,2,https://www.eliteprospects.com/player/117012/bo-horvat
+92,Brock Nelson ,C,C,,72,23,28,51,0.71,16,8,https://www.eliteprospects.com/player/74997/brock-nelson
+93,Vincent Trocheck ,C,C,New York Rangers,74,21,30,51,0.69,40,5,https://www.eliteprospects.com/player/45560/vincent-trocheck
+94,Troy Terry ,W,C,Anaheim Ducks,68,19,32,51,0.75,20,2,https://www.eliteprospects.com/player/234046/troy-terry
+95,Mika Zibanejad ,C,C,New York Rangers,74,16,35,51,0.69,22,-18,https://www.eliteprospects.com/player/23856/mika-zibanejad
+96,Erik Karlsson ,D,D,Pittsburgh Penguins,75,10,41,51,0.68,18,-24,https://www.eliteprospects.com/player/9878/erik-karlsson
+97,Shea Theodore ,D,D,Vegas Golden Knights,58,7,44,51,0.88,22,12,https://www.eliteprospects.com/player/101581/shea-theodore
+98,Kevin Fiala ,W,C,Los Angeles Kings,72,28,22,50,0.69,36,-7,https://www.eliteprospects.com/player/87971/kevin-fiala
+99,Anders Lee ,LW,LW,New York Islanders,73,27,23,50,0.68,31,9,https://www.eliteprospects.com/player/19068/anders-lee
+100,Matthew Knies ,LW,RW,Toronto Maple Leafs,70,25,24,49,0.70,39,-3,https://www.eliteprospects.com/player/292083/matthew-knies
+101,Sam Bennett ,C,LW,Florida Panthers,71,25,24,49,0.69,82,-10,https://www.eliteprospects.com/player/189371/sam-bennett
+102,Jonathan Marchessault ,LW,RW,Nashville Predators,73,19,30,49,0.67,35,-26,https://www.eliteprospects.com/player/32872/jonathan-marchessault
+103,Jake Sanderson ,D,D,Ottawa Senators,72,8,41,49,0.68,12,-15,https://www.eliteprospects.com/player/413015/jake-sanderson
+104,Tyler Toffoli ,C,W,San Jose Sharks,70,27,21,48,0.69,14,-20,https://www.eliteprospects.com/player/23813/tyler-toffoli
+105,Brad Marchand ,W,C,,63,21,27,48,0.76,62,-7,https://www.eliteprospects.com/player/10439/brad-marchand
+106,Ryan Nugent-Hopkins ,C,W,Edmonton Oilers,72,20,28,48,0.67,24,6,https://www.eliteprospects.com/player/25636/ryan-nugent-hopkins
+107,Jason Zucker ,LW,RW,Buffalo Sabres,64,19,29,48,0.75,55,1,https://www.eliteprospects.com/player/20726/jason-zucker
+108,Brayden Schenn ,C,W,St. Louis Blues,75,17,31,48,0.64,59,2,https://www.eliteprospects.com/player/14739/brayden-schenn
+109,Pavel Buchnevich ,W,C,St. Louis Blues,69,15,33,48,0.70,23,6,https://www.eliteprospects.com/player/158906/pavel-buchnevich
+110,Chandler Stephenson ,C,LW,Seattle Kraken,70,11,37,48,0.69,22,-11,https://www.eliteprospects.com/player/60726/chandler-stephenson
+111,Pavel Dorofeyev ,LW,RW,Vegas Golden Knights,73,31,16,47,0.64,28,-3,https://www.eliteprospects.com/player/398168/pavel-dorofeyev
+112,Kyle Palmieri ,RW,RW,New York Islanders,73,23,24,47,0.64,16,-12,https://www.eliteprospects.com/player/17508/kyle-palmieri
+113,Timo Meier ,RW,LW,New Jersey Devils,74,22,25,47,0.64,56,7,https://www.eliteprospects.com/player/95921/timo-meier
+114,Ivan Barbashyov ,C,W,Vegas Golden Knights,62,20,27,47,0.76,10,25,https://www.eliteprospects.com/player/108659/ivan-barbashyov
+115,Ryan McLeod ,C,W,Buffalo Sabres,70,18,29,47,0.67,16,12,https://www.eliteprospects.com/player/271502/ryan-mcleod
+116,Carter Verhaeghe ,C,LW,Florida Panthers,73,17,30,47,0.64,38,-20,https://www.eliteprospects.com/player/116967/carter-verhaeghe
+117,Thomas Harley ,D,D,Dallas Stars,71,15,32,47,0.66,16,34,https://www.eliteprospects.com/player/465160/thomas-harley
+118,Mikhail Sergachyov ,D,D,Utah Hockey Club,69,14,33,47,0.68,26,-10,https://www.eliteprospects.com/player/312213/mikhail-sergachyov
+119,Brock Boeser ,RW,RW,Vancouver Canucks,67,24,22,46,0.69,16,-24,https://www.eliteprospects.com/player/248381/brock-boeser
+120,Kent Johnson ,LW,C,Columbus Blue Jackets,58,22,24,46,0.79,16,-4,https://www.eliteprospects.com/player/521697/kent-johnson
+121,Jakob Chychrun ,D,D,Washington Capitals,68,20,26,46,0.68,48,20,https://www.eliteprospects.com/player/243386/jakob-chychrun
+122,Quinton Byfield ,C,C,Los Angeles Kings,73,19,27,46,0.63,38,14,https://www.eliteprospects.com/player/503020/quinton-byfield
+123,Juraj Slafkovsky ,RW,LW,Montreal Canadiens,70,17,29,46,0.66,35,-1,https://www.eliteprospects.com/player/527423/juraj-slafkovsky
+124,Cole Perfetti ,F,F,Winnipeg Jets,74,16,30,46,0.62,20,16,https://www.eliteprospects.com/player/201940/cole-perfetti
+125,Yevgeni Malkin ,C,C,Pittsburgh Penguins,62,15,31,46,0.74,40,-22,https://www.eliteprospects.com/player/4231/yevgeni-malkin
+126,Claude Giroux ,W,C,Ottawa Senators,73,14,32,46,0.63,16,-7,https://www.eliteprospects.com/player/10437/claude-giroux
+127,John Carlson ,D,D,Washington Capitals,73,5,41,46,0.63,22,22,https://www.eliteprospects.com/player/18590/john-carlson
+128,Steven Stamkos ,C,W,Nashville Predators,73,23,22,45,0.62,42,-27,https://www.eliteprospects.com/player/11113/steven-stamkos
+129,Jaden Schwartz ,LW,LW,Seattle Kraken,74,23,22,45,0.61,24,-7,https://www.eliteprospects.com/player/33907/jaden-schwartz
+130,Mason McTavish ,C,LW,Anaheim Ducks,67,20,25,45,0.67,36,5,https://www.eliteprospects.com/player/479812/mason-mctavish
+131,Andrei Svechnikov ,RW,LW,Carolina Hurricanes,65,19,26,45,0.69,57,-7,https://www.eliteprospects.com/player/328556/andrei-svechnikov
+132,Mats Zuccarello ,RW,LW,Minnesota Wild,61,17,28,45,0.74,20,-1,https://www.eliteprospects.com/player/10881/mats-zuccarello
+133,Jamie Benn ,LW,C,Dallas Stars,73,16,29,45,0.62,68,6,https://www.eliteprospects.com/player/15399/jamie-benn
+134,Elias Pettersson ,C,W,Vancouver Canucks,64,15,30,45,0.70,14,-10,https://www.eliteprospects.com/player/266336/elias-pettersson
+135,Zach Hyman ,W,C,Edmonton Oilers,67,27,17,44,0.66,30,16,https://www.eliteprospects.com/player/75045/zach-hyman
+136,Jake DeBrusk ,LW,LW,Vancouver Canucks,74,24,20,44,0.59,18,-14,https://www.eliteprospects.com/player/84242/jake-debrusk
+137,Adam Fantilli ,C,C,Columbus Blue Jackets,72,22,22,44,0.61,14,-2,https://www.eliteprospects.com/player/603785/adam-fantilli
+138,Conor Garland ,RW,LW,Vancouver Canucks,73,18,26,44,0.60,50,-12,https://www.eliteprospects.com/player/177208/conor-garland
+139,Ryan O'Reilly ,C,C,Nashville Predators,70,17,27,44,0.63,13,-23,https://www.eliteprospects.com/player/14371/ryan-o-reilly
+140,Sean Monahan ,C,C,Columbus Blue Jackets,44,14,30,44,1.00,16,15,https://www.eliteprospects.com/player/85013/sean-monahan
+141,Pavel Zacha ,C,LW,Boston Bruins,74,14,30,44,0.59,21,-3,https://www.eliteprospects.com/player/130786/pavel-zacha
+142,Artturi Lehkonen ,LW,LW,Colorado Avalanche,62,27,16,43,0.69,28,34,https://www.eliteprospects.com/player/43584/artturi-lehkonen
+143,Alexis Lafreniere ,RW,LW,New York Rangers,74,16,27,43,0.58,26,-13,https://www.eliteprospects.com/player/296697/alexis-lafreniere
+144,Morgan Geekie ,C,RW,Boston Bruins,69,27,15,42,0.61,22,-4,https://www.eliteprospects.com/player/247912/morgan-geekie
+145,Pius Suter ,C,C,Vancouver Canucks,73,22,20,42,0.58,12,4,https://www.eliteprospects.com/player/135775/pius-suter
+146,Warren Foegele ,LW,C,Los Angeles Kings,73,22,20,42,0.58,18,30,https://www.eliteprospects.com/player/210317/warren-foegele
+147,Dmitri Voronkov ,C,LW,Columbus Blue Jackets,63,20,22,42,0.67,43,13,https://www.eliteprospects.com/player/450012/dmitri-voronkov
+148,Oliver Bjorkstrand ,RW,RW,,73,19,23,42,0.58,16,1,https://www.eliteprospects.com/player/92803/oliver-bjorkstrand
+149,Jake Neighbours ,LW,RW,St. Louis Blues,75,19,23,42,0.56,51,1,https://www.eliteprospects.com/player/391048/jake-neighbours
+150,Anton Lundell ,C,C,Florida Panthers,72,16,26,42,0.58,36,15,https://www.eliteprospects.com/player/360145/anton-lundell
+151,Jackson LaCombe ,D,D,Anaheim Ducks,66,13,29,42,0.64,20,1,https://www.eliteprospects.com/player/369937/jackson-lacombe
+152,Frank Vatrano ,W,C,Anaheim Ducks,72,20,21,41,0.57,62,-10,https://www.eliteprospects.com/player/59733/frank-vatrano
+153,Tyler Bertuzzi ,LW,RW,Chicago Blackhawks,74,20,21,41,0.55,47,-38,https://www.eliteprospects.com/player/125028/tyler-bertuzzi
+154,Matty Beniers ,C,C,Seattle Kraken,74,18,23,41,0.55,14,0,https://www.eliteprospects.com/player/201739/matty-beniers
+155,Shayne Gostisbehere ,D,D,Carolina Hurricanes,64,7,34,41,0.64,32,4,https://www.eliteprospects.com/player/122787/shayne-gostisbehere
+156,MacKenzie Weegar ,D,D,Calgary Flames,71,7,34,41,0.58,33,13,https://www.eliteprospects.com/player/97908/mackenzie-weegar
+157,Leo Carlsson ,C,RW,Anaheim Ducks,67,20,20,40,0.60,12,9,https://www.eliteprospects.com/player/448944/leo-carlsson
+158,Mason Marchment ,LW,C,Dallas Stars,55,19,21,40,0.73,45,13,https://www.eliteprospects.com/player/208693/mason-marchment
+159,Shane Wright ,C,C,Seattle Kraken,71,17,23,40,0.56,18,3,https://www.eliteprospects.com/player/526239/shane-wright
+160,Barrett Hayton ,C,LW,Utah Hockey Club,74,17,23,40,0.54,27,-3,https://www.eliteprospects.com/player/317885/barrett-hayton
+161,Sean Couturier ,C,C,Philadelphia Flyers,72,14,26,40,0.56,39,3,https://www.eliteprospects.com/player/32885/sean-couturier
+162,Dylan Cozens ,C,RW,,73,14,26,40,0.55,66,-11,https://www.eliteprospects.com/player/286938/dylan-cozens
+163,Kaapo Kakko ,RW,C,,71,13,27,40,0.56,34,-2,https://www.eliteprospects.com/player/396655/kaapo-kakko
+164,Dougie Hamilton ,D,D,New Jersey Devils,63,9,31,40,0.63,28,9,https://www.eliteprospects.com/player/45596/dougie-hamilton
+165,Moritz Seider ,D,D,Detroit Red Wings,73,7,33,40,0.55,40,-9,https://www.eliteprospects.com/player/258987/moritz-seider
+166,Nick Paul ,LW,C,Tampa Bay Lightning,67,21,18,39,0.58,30,11,https://www.eliteprospects.com/player/149617/nick-paul
+167,Matt Coronato ,RW,LW,Calgary Flames,67,20,19,39,0.58,23,6,https://www.eliteprospects.com/player/462501/matt-coronato
+168,Owen Tippett ,RW,LW,Philadelphia Flyers,70,19,20,39,0.56,16,-12,https://www.eliteprospects.com/player/201664/owen-tippett
+169,Will Cuylle ,LW,LW,New York Rangers,74,18,21,39,0.53,38,8,https://www.eliteprospects.com/player/537552/will-cuylle
+170,Brandon Montour ,D,D,Seattle Kraken,73,16,23,39,0.53,62,-15,https://www.eliteprospects.com/player/97957/brandon-montour
+171,Ryan Strome ,C,W,Anaheim Ducks,73,10,29,39,0.53,56,-3,https://www.eliteprospects.com/player/44789/ryan-strome
+172,Phillip Danault ,C,LW,Los Angeles Kings,72,8,31,39,0.54,20,16,https://www.eliteprospects.com/player/45282/phillip-danault
+173,Owen Power ,D,D,Buffalo Sabres,73,7,32,39,0.53,12,-14,https://www.eliteprospects.com/player/504240/owen-power
+174,Luke Hughes ,D,D,New Jersey Devils,65,6,33,39,0.60,16,-5,https://www.eliteprospects.com/player/526979/luke-hughes
+175,Stefan Noesen ,RW,LW,New Jersey Devils,73,20,18,38,0.52,52,-5,https://www.eliteprospects.com/player/45567/stefan-noesen
+176,Simon Holmstrom ,RW,LW,New York Islanders,66,17,21,38,0.58,8,7,https://www.eliteprospects.com/player/347250/simon-holmstrom
+177,Taylor Hall ,LW,C,,69,17,21,38,0.55,28,-9,https://www.eliteprospects.com/player/14360/taylor-hall
+178,Cutter Gauthier ,LW,C,Anaheim Ducks,73,15,23,38,0.52,16,8,https://www.eliteprospects.com/player/526094/cutter-gauthier
+179,Casey Mittelstadt ,C,LW,,73,13,25,38,0.52,22,-23,https://www.eliteprospects.com/player/300831/casey-mittelstadt
+180,Elias Lindholm ,C,RW,Boston Bruins,74,13,25,38,0.51,14,-12,https://www.eliteprospects.com/player/33387/elias-lindholm
+181,Roman Josi ,D,D,Nashville Predators,53,9,29,38,0.72,18,-26,https://www.eliteprospects.com/player/12668/roman-josi
+182,Noah Hanifin ,D,D,Vegas Golden Knights,73,9,29,38,0.52,14,10,https://www.eliteprospects.com/player/177710/noah-hanifin
+183,Devon Toews ,D,D,Colorado Avalanche,70,8,30,38,0.54,24,29,https://www.eliteprospects.com/player/59575/devon-toews
+184,Fabian Zetterlund ,LW,RW,,75,17,20,37,0.49,14,7,https://www.eliteprospects.com/player/265608/fabian-zetterlund
+185,Will Smith ,C,RW,San Jose Sharks,65,13,24,37,0.57,12,-14,https://www.eliteprospects.com/player/615470/will-smith
+186,Jean-Gabriel Pageau ,C,C,New York Islanders,70,12,25,37,0.53,23,7,https://www.eliteprospects.com/player/45134/jean-gabriel-pageau
+187,Jonathan Drouin ,LW,C,Colorado Avalanche,41,11,26,37,0.90,6,5,https://www.eliteprospects.com/player/118657/jonathan-drouin
+188,Neal Pionk ,D,D,Winnipeg Jets,66,9,28,37,0.56,44,21,https://www.eliteprospects.com/player/196583/neal-pionk
+189,Jake Walman ,D,D,,61,6,31,37,0.61,40,2,https://www.eliteprospects.com/player/248066/jake-walman
+190,Brett Howden ,C,LW,Vegas Golden Knights,71,22,14,36,0.51,44,14,https://www.eliteprospects.com/player/232712/brett-howden
+191,Yevgeni Dadonov ,RW,LW,Dallas Stars,71,16,20,36,0.51,8,9,https://www.eliteprospects.com/player/11859/yevgeni-dadonov
+192,Vladislav Namestnikov ,C,LW,Winnipeg Jets,70,11,25,36,0.51,36,21,https://www.eliteprospects.com/player/39029/vladislav-namestnikov
+193,Bobby Brink ,RW,RW,Philadelphia Flyers,72,11,25,36,0.50,22,-11,https://www.eliteprospects.com/player/496724/bobby-brink
+194,Josh Norris ,C,C,,56,21,14,35,0.63,44,-6,https://www.eliteprospects.com/player/273954/josh-norris
+195,Jack Roslovic ,C,RW,Carolina Hurricanes,72,21,14,35,0.49,4,-7,https://www.eliteprospects.com/player/226309/jack-roslovic
+196,Tyson Foerster ,RW,RW,Philadelphia Flyers,74,18,17,35,0.47,45,-10,https://www.eliteprospects.com/player/201934/tyson-foerster
+197,Kiefer Sherwood ,W,C,Vancouver Canucks,70,17,18,35,0.50,33,1,https://www.eliteprospects.com/player/196607/kiefer-sherwood
+198,Trevor Moore ,C,W,Los Angeles Kings,63,16,19,35,0.56,12,12,https://www.eliteprospects.com/player/87846/trevor-moore
+199,Alex Laferriere ,RW,LW,Los Angeles Kings,68,16,19,35,0.51,20,16,https://www.eliteprospects.com/player/450718/alex-laferriere
+200,Colton Parayko ,D,D,St. Louis Blues,62,15,20,35,0.56,8,8,https://www.eliteprospects.com/player/89411/colton-parayko
+201,Vince Dunn ,D,D,Seattle Kraken,54,11,24,35,0.65,29,-5,https://www.eliteprospects.com/player/161816/vince-dunn
+202,Noah Dobson ,D,D,New York Islanders,62,8,27,35,0.56,24,-15,https://www.eliteprospects.com/player/275797/noah-dobson
+203,Bowen Byram ,D,D,Buffalo Sabres,73,7,28,35,0.48,42,11,https://www.eliteprospects.com/player/326522/bowen-byram
+204,Morgan Rielly ,D,D,Toronto Maple Leafs,74,7,28,35,0.47,21,-17,https://www.eliteprospects.com/player/41184/morgan-rielly
+205,Thomas Chabot ,D,D,Ottawa Senators,72,6,29,35,0.49,22,12,https://www.eliteprospects.com/player/213607/thomas-chabot
+206,Matt Grzelcyk ,D,D,Pittsburgh Penguins,75,1,34,35,0.47,12,-8,https://www.eliteprospects.com/player/90350/matt-grzelcyk
+207,Eeli Tolvanen ,RW,LW,Seattle Kraken,74,22,12,34,0.46,18,5,https://www.eliteprospects.com/player/249730/eeli-tolvanen
+208,Frederick Gaudreau ,C,C,Minnesota Wild,74,18,16,34,0.46,8,2,https://www.eliteprospects.com/player/129032/frederick-gaudreau
+209,Jack Quinn ,RW,LW,Buffalo Sabres,65,14,20,34,0.52,14,-18,https://www.eliteprospects.com/player/336828/jack-quinn
+210,Jordan Martinook ,W,C,Carolina Hurricanes,73,13,21,34,0.47,16,16,https://www.eliteprospects.com/player/44271/jordan-martinook
+211,Logan Stankoven ,C,RW,,69,11,23,34,0.49,6,1,https://www.eliteprospects.com/player/556512/logan-stankoven
+212,Reilly Smith ,RW,LW,,70,11,23,34,0.49,22,6,https://www.eliteprospects.com/player/33903/reilly-smith
+213,Darren Raddysh ,D,D,Tampa Bay Lightning,64,5,29,34,0.53,14,8,https://www.eliteprospects.com/player/205556/darren-raddysh
+214,Bobby McMann ,C,LW,Toronto Maple Leafs,66,20,13,33,0.50,20,10,https://www.eliteprospects.com/player/108467/bobby-mcmann
+215,Alex Killorn ,W,C,Anaheim Ducks,73,18,15,33,0.45,28,11,https://www.eliteprospects.com/player/12523/alex-killorn
+216,Brendan Gallagher ,RW,RW,Montreal Canadiens,73,18,15,33,0.45,35,-8,https://www.eliteprospects.com/player/25705/brendan-gallagher
+217,Nino Niederreiter ,RW,LW,Winnipeg Jets,74,15,18,33,0.45,24,15,https://www.eliteprospects.com/player/17679/nino-niederreiter
+218,Morgan Frost ,C,C,,71,13,20,33,0.46,22,-16,https://www.eliteprospects.com/player/317025/morgan-frost
+219,Jordan Staal ,C,C,Carolina Hurricanes,71,12,21,33,0.46,16,13,https://www.eliteprospects.com/player/10157/jordan-staal
+220,Mattias Ekholm ,D,D,Edmonton Oilers,64,9,24,33,0.52,30,11,https://www.eliteprospects.com/player/8373/mattias-ekholm
+221,Aaron Ekblad ,D,D,Florida Panthers,56,3,30,33,0.59,53,11,https://www.eliteprospects.com/player/49042/aaron-ekblad
+222,Patrik Laine ,LW,RW,Montreal Canadiens,43,19,13,32,0.74,10,-14,https://www.eliteprospects.com/player/221667/patrik-laine
+223,Michael Bunting ,LW,RW,,67,16,16,32,0.48,56,-25,https://www.eliteprospects.com/player/245191/michael-bunting
+224,Noah Cates ,LW,LW,Philadelphia Flyers,71,15,17,32,0.45,14,2,https://www.eliteprospects.com/player/201517/noah-cates
+225,Blake Coleman ,C,W,Calgary Flames,72,13,19,32,0.44,32,-8,https://www.eliteprospects.com/player/46889/blake-coleman
+226,Alexander Wennberg ,C,LW,San Jose Sharks,68,9,23,32,0.47,10,-18,https://www.eliteprospects.com/player/37041/alexander-wennberg
+227,Cam Fowler ,D,D,,61,8,24,32,0.52,14,7,https://www.eliteprospects.com/player/31261/cam-fowler
+228,Alex Pietrangelo ,D,D,Vegas Golden Knights,67,4,28,32,0.48,16,11,https://www.eliteprospects.com/player/11317/alex-pietrangelo
+229,Justin Faulk ,D,D,St. Louis Blues,71,4,28,32,0.45,24,-4,https://www.eliteprospects.com/player/20715/justin-faulk
+230,Ilya Mikheyev ,RW,LW,Chicago Blackhawks,72,17,14,31,0.43,16,0,https://www.eliteprospects.com/player/180935/ilya-mikheyev
+231,Dawson Mercer ,C,RW,New Jersey Devils,75,17,14,31,0.41,12,2,https://www.eliteprospects.com/player/320305/dawson-mercer
+232,Zachary Bolduc ,C,C,St. Louis Blues,65,16,15,31,0.48,33,19,https://www.eliteprospects.com/player/529393/zachary-bolduc
+233,Adam Lowry ,C,C,Winnipeg Jets,66,14,17,31,0.47,28,19,https://www.eliteprospects.com/player/45633/adam-lowry
+234,Eric Robinson ,LW,LW,Carolina Hurricanes,73,13,18,31,0.42,10,16,https://www.eliteprospects.com/player/206755/eric-robinson
+235,Jake Evans ,C,RW,Montreal Canadiens,73,12,19,31,0.42,10,-2,https://www.eliteprospects.com/player/152048/jake-evans
+236,Jesperi Kotkaniemi ,C,LW,Carolina Hurricanes,73,11,20,31,0.42,50,9,https://www.eliteprospects.com/player/363872/jesperi-kotkaniemi
+237,Seth Jones ,D,D,,54,9,22,31,0.57,20,-22,https://www.eliteprospects.com/player/90355/seth-jones
+238,Maxim Tsyplakov ,RW,RW,New York Islanders,68,8,23,31,0.46,35,5,https://www.eliteprospects.com/player/354505/maxim-tsyplakov
+239,Andre Burakovsky ,LW,RW,Seattle Kraken,71,8,23,31,0.44,12,-1,https://www.eliteprospects.com/player/38705/andre-burakovsky
+240,Brandt Clarke ,D,D,Los Angeles Kings,69,5,26,31,0.45,38,11,https://www.eliteprospects.com/player/336887/brandt-clarke
+241,Valeri Nichushkin ,RW,RW,Colorado Avalanche,36,19,11,30,0.83,4,11,https://www.eliteprospects.com/player/108661/valeri-nichushkin
+242,Shane Pinto ,C,C,Ottawa Senators,61,16,14,30,0.49,24,5,https://www.eliteprospects.com/player/388979/shane-pinto
+243,Marco Kasper ,C,C,Detroit Red Wings,68,15,15,30,0.44,32,-4,https://www.eliteprospects.com/player/560848/marco-kasper
+244,James van Riemsdyk ,LW,LW,Columbus Blue Jackets,63,14,16,30,0.48,16,-7,https://www.eliteprospects.com/player/9324/james-van-riemsdyk
+245,Nick Foligno ,LW,RW,Chicago Blackhawks,70,12,18,30,0.43,44,-20,https://www.eliteprospects.com/player/10675/nick-foligno
+246,Vladimir Tarasenko ,RW,RW,Detroit Red Wings,71,10,20,30,0.42,6,-15,https://www.eliteprospects.com/player/24787/vladimir-tarasenko
+247,Cole Sillinger ,C,LW,Columbus Blue Jackets,56,9,21,30,0.54,35,-14,https://www.eliteprospects.com/player/201844/cole-sillinger
+248,Max Domi ,C,W,Toronto Maple Leafs,66,8,22,30,0.45,67,3,https://www.eliteprospects.com/player/95484/max-domi
+249,Jared Spurgeon ,D,D,Minnesota Wild,59,7,23,30,0.51,14,6,https://www.eliteprospects.com/player/11611/jared-spurgeon
+250,Ivan Provorov ,D,D,Columbus Blue Jackets,72,7,23,30,0.42,20,3,https://www.eliteprospects.com/player/242584/ivan-provorov
+251,Darnell Nurse ,D,D,Edmonton Oilers,68,5,25,30,0.44,55,10,https://www.eliteprospects.com/player/97352/darnell-nurse
+252,Mason Lohrei ,D,D,Boston Bruins,69,5,25,30,0.43,16,-34,https://www.eliteprospects.com/player/497121/mason-lohrei
+253,Mathieu Olivier ,RW,LW,Columbus Blue Jackets,72,17,12,29,0.40,125,-5,https://www.eliteprospects.com/player/213604/mathieu-olivier
+254,Evan Rodrigues ,C,W,Florida Panthers,73,14,15,29,0.40,34,0,https://www.eliteprospects.com/player/62525/evan-rodrigues
+255,Scott Laughton ,C,LW,,72,12,17,29,0.40,28,-22,https://www.eliteprospects.com/player/76690/scott-laughton
+256,Christian Dvorak ,LW,C,Montreal Canadiens,73,10,19,29,0.40,16,-7,https://www.eliteprospects.com/player/194889/christian-dvorak
+257,J.T. Compher ,W,C,Detroit Red Wings,67,8,21,29,0.43,22,-7,https://www.eliteprospects.com/player/114800/j.t.-compher
+258,Simon Edvinsson ,D,D,Detroit Red Wings,69,7,22,29,0.42,57,8,https://www.eliteprospects.com/player/394730/simon-edvinsson
+259,Mike Matheson ,D,D,Montreal Canadiens,71,6,23,29,0.41,47,-10,https://www.eliteprospects.com/player/76333/mike-matheson
+260,Oliver Ekman Larsson ,D,D,Toronto Maple Leafs,73,4,25,29,0.40,50,12,https://www.eliteprospects.com/player/7693/oliver-ekman-larsson
+261,Ross Colton ,C,C,Colorado Avalanche,57,15,13,28,0.49,16,-1,https://www.eliteprospects.com/player/300911/ross-colton
+262,Ridly Greig ,C,LW,Ottawa Senators,70,12,16,28,0.40,58,-14,https://www.eliteprospects.com/player/413174/ridly-greig
+263,Jackson Blake ,RW,C,Carolina Hurricanes,73,12,16,28,0.38,30,12,https://www.eliteprospects.com/player/574744/jackson-blake
+264,Rasmus Andersson ,D,D,Calgary Flames,72,10,18,28,0.39,54,-31,https://www.eliteprospects.com/player/86137/rasmus-andersson
+265,Kris Letang ,D,D,Pittsburgh Penguins,68,8,20,28,0.41,42,-17,https://www.eliteprospects.com/player/9189/kris-letang
+266,Travis Sanheim ,D,D,Philadelphia Flyers,75,7,21,28,0.37,34,-10,https://www.eliteprospects.com/player/120938/travis-sanheim
+267,Filip Hronek ,D,D,Vancouver Canucks,53,4,24,28,0.53,38,-2,https://www.eliteprospects.com/player/191286/filip-hronek
+268,Rasmus Sandin ,D,D,Washington Capitals,73,4,24,28,0.38,14,24,https://www.eliteprospects.com/player/289453/rasmus-sandin
+269,Alex Vlasic ,D,D,Chicago Blackhawks,74,4,24,28,0.38,12,-21,https://www.eliteprospects.com/player/315969/alex-vlasic
+270,Ryan McDonagh ,D,D,Tampa Bay Lightning,73,3,25,28,0.38,20,40,https://www.eliteprospects.com/player/11458/ryan-mcdonagh
+271,Ondrej Palat ,LW,RW,New Jersey Devils,71,14,13,27,0.38,12,-5,https://www.eliteprospects.com/player/18097/ondrej-palat
+272,Connor Zary ,C,W,Calgary Flames,54,13,14,27,0.50,14,-7,https://www.eliteprospects.com/player/351805/connor-zary
+273,Mackie Samoskevich ,RW,C,Florida Panthers,64,13,14,27,0.42,10,0,https://www.eliteprospects.com/player/470025/mackie-samoskevich
+274,Keegan Kolesar ,RW,RW,Vegas Golden Knights,73,12,15,27,0.37,48,4,https://www.eliteprospects.com/player/197560/keegan-kolesar
+275,Brady Skjei ,D,D,Nashville Predators,73,10,17,27,0.37,36,-18,https://www.eliteprospects.com/player/90352/brady-skjei
+276,Andrey Kuzmenko ,LW,LW,,57,9,18,27,0.47,14,-7,https://www.eliteprospects.com/player/211807/andrey-kuzmenko
+277,Philip Broberg ,D,D,St. Louis Blues,62,8,19,27,0.44,16,20,https://www.eliteprospects.com/player/349467/philip-broberg
+278,Marcus Johansson ,C,LW,Minnesota Wild,64,8,19,27,0.42,8,-7,https://www.eliteprospects.com/player/6225/marcus-johansson
+279,Taylor Raddysh ,RW,RW,Washington Capitals,73,7,20,27,0.37,18,3,https://www.eliteprospects.com/player/245610/taylor-raddysh
+280,Vladislav Gavrikov ,D,D,Los Angeles Kings,73,4,23,27,0.37,22,20,https://www.eliteprospects.com/player/165015/vladislav-gavrikov
+281,Andrew Mangiapane ,W,C,Washington Capitals,72,14,12,26,0.36,20,10,https://www.eliteprospects.com/player/223199/andrew-mangiapane
+282,Filip Chytil ,C,C,,56,13,13,26,0.46,18,-7,https://www.eliteprospects.com/player/236806/filip-chytil
+283,Alex Iafallo ,LW,C,Winnipeg Jets,74,13,13,26,0.35,15,20,https://www.eliteprospects.com/player/121859/alex-iafallo
+284,Brandon Saad ,LW,RW,,64,12,14,26,0.41,6,-9,https://www.eliteprospects.com/player/31264/brandon-saad
+285,Nicolas Roy ,C,RW,Vegas Golden Knights,62,11,15,26,0.42,41,-7,https://www.eliteprospects.com/player/151361/nicolas-roy
+286,Trevor Zegras ,C,W,Anaheim Ducks,48,9,17,26,0.54,23,-4,https://www.eliteprospects.com/player/424453/trevor-zegras
+287,Gustav Forsling ,D,D,Florida Panthers,73,9,17,26,0.36,14,31,https://www.eliteprospects.com/player/86366/gustav-forsling
+288,Dmitri Orlov ,D,D,Carolina Hurricanes,68,6,20,26,0.38,22,14,https://www.eliteprospects.com/player/17758/dmitri-orlov
+289,Michael Kesselring ,D,D,Utah Hockey Club,74,6,20,26,0.35,81,4,https://www.eliteprospects.com/player/375367/michael-kesselring
+290,Corey Perry ,RW,LW,Edmonton Oilers,72,16,9,25,0.35,42,6,https://www.eliteprospects.com/player/8541/corey-perry
+291,Anthony Beauvillier ,W,C,,73,15,10,25,0.34,14,3,https://www.eliteprospects.com/player/213435/anthony-beauvillier
+292,Jeff Skinner ,C,LW,Edmonton Oilers,63,14,11,25,0.40,12,-1,https://www.eliteprospects.com/player/23668/jeff-skinner
+293,Victor Olofsson ,LW,RW,Vegas Golden Knights,49,13,12,25,0.51,12,14,https://www.eliteprospects.com/player/86308/victor-olofsson
+294,Yegor Sharangovich ,C,W,Calgary Flames,63,13,12,25,0.40,6,-12,https://www.eliteprospects.com/player/271111/yegor-sharangovich
+295,Tanner Pearson ,LW,LW,Vegas Golden Knights,69,12,13,25,0.36,4,6,https://www.eliteprospects.com/player/75951/tanner-pearson
+296,Joel Armia ,RW,RW,Montreal Canadiens,72,11,14,25,0.35,16,-6,https://www.eliteprospects.com/player/40624/joel-armia
+297,Zach Benson ,W,C,Buffalo Sabres,66,10,15,25,0.38,58,0,https://www.eliteprospects.com/player/535582/zach-benson
+298,Luke Evangelista ,RW,RW,Nashville Predators,59,9,16,25,0.42,20,-3,https://www.eliteprospects.com/player/503976/luke-evangelista
+299,Danton Heinen ,LW,C,,72,8,17,25,0.35,31,-1,https://www.eliteprospects.com/player/105821/danton-heinen
+300,Connor Brown ,RW,LW,Edmonton Oilers,73,8,17,25,0.34,8,1,https://www.eliteprospects.com/player/97341/connor-brown
+301,Yanni Gourde ,C,W,,48,6,19,25,0.52,47,-2,https://www.eliteprospects.com/player/37303/yanni-gourde
+302,Damon Severson ,D,D,Columbus Blue Jackets,69,6,19,25,0.36,43,6,https://www.eliteprospects.com/player/55867/damon-severson
+303,Miro Heiskanen ,D,D,Dallas Stars,50,5,20,25,0.50,10,7,https://www.eliteprospects.com/player/250075/miro-heiskanen
+304,Ryker Evans ,D,D,Seattle Kraken,66,5,20,25,0.38,22,-6,https://www.eliteprospects.com/player/351173/ryker-evans
+305,Brent Burns ,D,D,Carolina Hurricanes,73,5,20,25,0.34,24,10,https://www.eliteprospects.com/player/9103/brent-burns
+306,Marcus Pettersson ,D,D,,70,3,22,25,0.36,41,3,https://www.eliteprospects.com/player/86321/marcus-pettersson
+307,Chris Kreider ,LW,LW,New York Rangers,60,19,5,24,0.40,20,-6,https://www.eliteprospects.com/player/37998/chris-kreider
+308,Charlie Coyle ,C,RW,,75,15,9,24,0.32,22,-10,https://www.eliteprospects.com/player/60251/charlie-coyle
+309,Alex Newhook ,C,LW,Montreal Canadiens,73,14,10,24,0.33,24,-20,https://www.eliteprospects.com/player/320307/alex-newhook
+310,Josh Anderson ,RW,LW,Montreal Canadiens,73,13,11,24,0.33,80,-2,https://www.eliteprospects.com/player/95853/josh-anderson
+311,Marcus Foligno ,LW,RW,Minnesota Wild,69,12,12,24,0.35,73,6,https://www.eliteprospects.com/player/18601/marcus-foligno
+312,Nic Dowd ,C,RW,Washington Capitals,73,12,12,24,0.33,42,11,https://www.eliteprospects.com/player/39372/nic-dowd
+313,Ryan Hartman ,RW,C,Minnesota Wild,61,11,13,24,0.39,69,-8,https://www.eliteprospects.com/player/90345/ryan-hartman
+314,Mikael Backlund ,C,C,Calgary Flames,66,11,13,24,0.36,28,-1,https://www.eliteprospects.com/player/4295/mikael-backlund
+315,Joel Farabee ,LW,LW,,71,11,13,24,0.34,30,-15,https://www.eliteprospects.com/player/334036/joel-farabee
+316,Ryan Poehling ,C,C,Philadelphia Flyers,61,10,14,24,0.39,16,-3,https://www.eliteprospects.com/player/288045/ryan-poehling
+317,Drew O'Connor ,LW,RW,,76,10,14,24,0.32,32,-16,https://www.eliteprospects.com/player/378129/drew-o-connor
+318,Joel Eriksson Ek ,C,C,Minnesota Wild,42,9,15,24,0.57,20,5,https://www.eliteprospects.com/player/139633/joel-eriksson-ek
+319,Gustav Nyquist ,C,W,,71,9,15,24,0.34,14,-22,https://www.eliteprospects.com/player/6223/gustav-nyquist
+320,William Karlsson ,C,C,Vegas Golden Knights,44,7,17,24,0.55,2,11,https://www.eliteprospects.com/player/19432/william-karlsson
+321,Brock Faber ,D,D,Minnesota Wild,70,7,17,24,0.34,21,0,https://www.eliteprospects.com/player/558598/brock-faber
+322,Tyler Myers ,D,D,Vancouver Canucks,70,6,18,24,0.34,74,2,https://www.eliteprospects.com/player/17521/tyler-myers
+323,Jaccob Slavin ,D,D,Carolina Hurricanes,73,6,18,24,0.33,8,19,https://www.eliteprospects.com/player/97621/jaccob-slavin
+324,Adam Larsson ,D,D,Seattle Kraken,74,6,18,24,0.32,27,18,https://www.eliteprospects.com/player/10713/adam-larsson
+325,Martin Pospisil ,C,C,Calgary Flames,72,4,20,24,0.33,84,0,https://www.eliteprospects.com/player/341691/martin-pospisil
+326,Matt Roy ,D,D,Washington Capitals,63,3,21,24,0.38,25,28,https://www.eliteprospects.com/player/191271/matt-roy
+327,Jordan Spence ,D,D,Los Angeles Kings,71,3,21,24,0.34,16,18,https://www.eliteprospects.com/player/320267/jordan-spence
+328,Adam Gaudette ,W,C,Ottawa Senators,72,16,7,23,0.32,10,12,https://www.eliteprospects.com/player/203361/adam-gaudette
+329,Joel Kiviranta ,LW,LW,Colorado Avalanche,72,16,7,23,0.32,16,13,https://www.eliteprospects.com/player/91109/joel-kiviranta
+330,Jesper Boqvist ,C,LW,Florida Panthers,70,12,11,23,0.33,14,2,https://www.eliteprospects.com/player/212690/jesper-boqvist
+331,Viktor Arvidsson ,LW,RW,Edmonton Oilers,58,11,12,23,0.40,18,-1,https://www.eliteprospects.com/player/27484/viktor-arvidsson
+332,Michael Amadio ,W,C,Ottawa Senators,63,11,12,23,0.37,16,6,https://www.eliteprospects.com/player/151385/michael-amadio
+333,Alexander Kerfoot ,C,W,Utah Hockey Club,74,11,12,23,0.31,12,-10,https://www.eliteprospects.com/player/59968/alexander-kerfoot
+334,Andrew Copp ,C,LW,Detroit Red Wings,56,10,13,23,0.41,8,4,https://www.eliteprospects.com/player/101962/andrew-copp
+335,Mavrik Bourque ,C,RW,Dallas Stars,64,10,13,23,0.36,8,9,https://www.eliteprospects.com/player/295299/mavrik-bourque
+336,Alex Turcotte ,C,LW,Los Angeles Kings,64,8,15,23,0.36,20,8,https://www.eliteprospects.com/player/290043/alex-turcotte
+337,Peyton Krebs ,C,LW,Buffalo Sabres,72,8,15,23,0.32,58,-4,https://www.eliteprospects.com/player/322178/peyton-krebs
+338,Teodors Blugers ,C,C,Vancouver Canucks,74,8,15,23,0.31,31,-10,https://www.eliteprospects.com/player/108347/teodors-blugers
+339,Charlie McAvoy ,D,D,Boston Bruins,50,7,16,23,0.46,46,0,https://www.eliteprospects.com/player/245142/charlie-mcavoy
+340,Brett Kulak ,D,D,Edmonton Oilers,73,7,16,23,0.32,18,-5,https://www.eliteprospects.com/player/88617/brett-kulak
+341,Sam Steel ,C,LW,Dallas Stars,71,6,17,23,0.32,24,-3,https://www.eliteprospects.com/player/154496/sam-steel
+342,Martin Fehervary ,D,D,Washington Capitals,73,4,19,23,0.32,25,19,https://www.eliteprospects.com/player/274991/martin-fehervary
+343,Samuel Girard ,D,D,Colorado Avalanche,69,3,20,23,0.33,12,7,https://www.eliteprospects.com/player/251476/samuel-girard
+344,Alexandre Carrier ,D,D,,70,3,20,23,0.33,30,-12,https://www.eliteprospects.com/player/151143/alexandre-carrier
+345,Paul Cotter ,C,W,New Jersey Devils,74,16,6,22,0.30,47,-11,https://www.eliteprospects.com/player/284097/paul-cotter
+346,Tommy Novak ,C,C,,54,13,9,22,0.41,4,-7,https://www.eliteprospects.com/player/248374/tommy-novak
+347,Jack McBain ,C,LW,Utah Hockey Club,74,12,10,22,0.30,78,5,https://www.eliteprospects.com/player/363685/jack-mcbain
+348,Kirby Dach ,C,C,Montreal Canadiens,57,10,12,22,0.39,40,-29,https://www.eliteprospects.com/player/268089/kirby-dach
+349,Lars Eller ,C,LW,,71,10,12,22,0.31,32,3,https://www.eliteprospects.com/player/5995/lars-eller
+350,Jordan Eberle ,RW,C,Seattle Kraken,34,9,13,22,0.65,10,-2,https://www.eliteprospects.com/player/11098/jordan-eberle
+351,Eetu Luostarinen ,C,C,Florida Panthers,72,8,14,22,0.31,28,10,https://www.eliteprospects.com/player/299319/eetu-luostarinen
+352,Vasili Podkolzin ,RW,LW,Edmonton Oilers,73,7,15,22,0.30,28,2,https://www.eliteprospects.com/player/512832/vasili-podkolzin
+353,Esa Lindell ,D,D,Dallas Stars,73,5,17,22,0.30,14,33,https://www.eliteprospects.com/player/50019/esa-lindell
+354,Ryan Lindgren ,D,D,,67,4,18,22,0.33,38,3,https://www.eliteprospects.com/player/226442/ryan-lindgren
+355,Cody Ceci ,D,D,,76,4,18,22,0.29,22,6,https://www.eliteprospects.com/player/45584/cody-ceci
+356,Jake McCabe ,D,D,Toronto Maple Leafs,65,2,20,22,0.34,40,23,https://www.eliteprospects.com/player/45419/jake-mccabe
+357,Jiri Kulich ,C,W,Buffalo Sabres,53,14,7,21,0.40,18,-2,https://www.eliteprospects.com/player/579198/ji%C5%99i-kulich
+358,Kevin Hayes ,C,LW,Pittsburgh Penguins,58,11,10,21,0.36,6,-14,https://www.eliteprospects.com/player/40243/kevin-hayes
+359,Justin Brazeau ,RW,LW,,69,11,10,21,0.30,18,-6,https://www.eliteprospects.com/player/217051/justin-brazeau
+360,Kevin Stenlund ,C,RW,Utah Hockey Club,74,11,10,21,0.28,32,-12,https://www.eliteprospects.com/player/142262/kevin-stenlund
+361,Philip Tomasino ,C,W,,57,10,11,21,0.37,8,-8,https://www.eliteprospects.com/player/418531/philip-tomasino
+362,Mason Appleton ,C,RW,Winnipeg Jets,63,10,11,21,0.33,22,9,https://www.eliteprospects.com/player/266919/mason-appleton
+363,Brandon Tanev ,LW,RW,,71,10,11,21,0.30,14,-9,https://www.eliteprospects.com/player/96475/brandon-tanev
+364,Lukas Reichel ,W,C,Chicago Blackhawks,65,7,14,21,0.32,12,-12,https://www.eliteprospects.com/player/381687/lukas-reichel
+365,Colton Sissons ,C,RW,Nashville Predators,72,7,14,21,0.29,22,-12,https://www.eliteprospects.com/player/48393/colton-sissons
+366,Cody Glass ,C,RW,,59,6,15,21,0.36,12,-3,https://www.eliteprospects.com/player/201704/cody-glass
+367,Nils Hoglander ,LW,RW,Vancouver Canucks,66,6,15,21,0.32,30,6,https://www.eliteprospects.com/player/311906/nils-hoglander
+368,K'Andre Miller ,D,D,New York Rangers,68,6,15,21,0.31,18,-6,https://www.eliteprospects.com/player/308192/k-andre-miller
+369,Niko Mikkola ,D,D,Florida Panthers,68,5,16,21,0.31,62,13,https://www.eliteprospects.com/player/94439/niko-mikkola
+370,Brian Dumoulin ,D,D,,73,2,19,21,0.29,10,2,https://www.eliteprospects.com/player/33896/brian-dumoulin
+371,Trevor van Riemsdyk ,D,D,Washington Capitals,73,1,20,21,0.29,18,22,https://www.eliteprospects.com/player/60230/trevor-van-riemsdyk
+372,Adam Henrique ,C,LW,Edmonton Oilers,72,10,10,20,0.28,14,0,https://www.eliteprospects.com/player/19043/adam-henrique
+373,Tyler Seguin ,C,RW,Dallas Stars,19,9,11,20,1.05,2,14,https://www.eliteprospects.com/player/23807/tyler-seguin
+374,Mathew Barzal ,C,RW,New York Islanders,30,6,14,20,0.67,4,10,https://www.eliteprospects.com/player/186310/mathew-barzal
+375,Dante Fabbro ,D,D,,58,6,14,20,0.34,36,16,https://www.eliteprospects.com/player/247041/dante-fabbro
+376,Mikey Anderson ,D,D,Los Angeles Kings,69,6,14,20,0.29,28,12,https://www.eliteprospects.com/player/201512/mikey-anderson
+377,Ryan Pulock ,D,D,New York Islanders,66,5,15,20,0.30,14,4,https://www.eliteprospects.com/player/86761/ryan-pulock
+378,Erik Cernak ,D,D,Tampa Bay Lightning,67,3,17,20,0.30,42,27,https://www.eliteprospects.com/player/166368/erik-cernak
+379,Nick Robertson ,LW,RW,Toronto Maple Leafs,62,12,7,19,0.31,14,-4,https://www.eliteprospects.com/player/359539/nick-robertson
+380,Blake Lizotte ,C,LW,Pittsburgh Penguins,56,10,9,19,0.34,26,-5,https://www.eliteprospects.com/player/321198/blake-lizotte
+381,Jonatan Berggren ,RW,LW,Detroit Red Wings,66,10,9,19,0.29,14,-10,https://www.eliteprospects.com/player/274796/jonatan-berggren
+382,Brandon Duhaime ,RW,LW,Washington Capitals,73,9,10,19,0.26,76,6,https://www.eliteprospects.com/player/202463/brandon-duhaime
+383,Jacob Middleton ,D,D,Minnesota Wild,63,8,11,19,0.30,40,12,https://www.eliteprospects.com/player/150872/jacob-middleton
+384,Dylan Samberg ,D,D,Winnipeg Jets,52,6,13,19,0.37,22,32,https://www.eliteprospects.com/player/201527/dylan-samberg
+385,Jamie Drysdale ,D,D,Philadelphia Flyers,63,6,13,19,0.30,18,-27,https://www.eliteprospects.com/player/201868/jamie-drysdale
+386,Joel Edmundson ,D,D,Los Angeles Kings,69,6,13,19,0.28,22,24,https://www.eliteprospects.com/player/59478/joel-edmundson
+387,Braden Schneider ,D,D,New York Rangers,74,5,14,19,0.26,18,9,https://www.eliteprospects.com/player/351820/braden-schneider
+388,Jonas Brodin ,D,D,Minnesota Wild,42,4,15,19,0.45,14,9,https://www.eliteprospects.com/player/19980/jonas-brodin
+389,Rasmus Ristolainen ,D,D,Philadelphia Flyers,63,4,15,19,0.30,14,3,https://www.eliteprospects.com/player/43497/rasmus-ristolainen
+390,Nick Jensen ,D,D,Ottawa Senators,64,3,16,19,0.30,6,19,https://www.eliteprospects.com/player/37773/nick-jensen
+391,Adam Pelech ,D,D,New York Islanders,52,0,19,19,0.37,28,6,https://www.eliteprospects.com/player/89694/adam-pelech
+392,Luke Kunin ,C,W,,73,11,7,18,0.25,55,-25,https://www.eliteprospects.com/player/245278/luke-kunin
+393,Emil Heineman ,LW,RW,Montreal Canadiens,58,10,8,18,0.31,18,-5,https://www.eliteprospects.com/player/381844/emil-heineman
+394,Michael Rasmussen ,C,C,Detroit Red Wings,68,10,8,18,0.26,22,-11,https://www.eliteprospects.com/player/286738/michael-rasmussen
+395,Craig Smith ,C,RW,,50,9,9,18,0.36,32,-8,https://www.eliteprospects.com/player/27038/craig-smith
+396,Logan O'Connor ,RW,RW,Colorado Avalanche,72,9,9,18,0.25,19,-6,https://www.eliteprospects.com/player/62327/logan-o-connor
+397,Justin Danforth ,RW,C,Columbus Blue Jackets,51,8,10,18,0.35,14,-7,https://www.eliteprospects.com/player/76146/justin-danforth
+398,Matias Maccelli ,LW,RW,Utah Hockey Club,55,8,10,18,0.33,8,-13,https://www.eliteprospects.com/player/375953/matias-maccelli
+399,Garnet Hathaway ,RW,LW,Philadelphia Flyers,60,8,10,18,0.30,48,4,https://www.eliteprospects.com/player/75018/garnet-hathaway
+400,Michael Carcone ,W,C,Utah Hockey Club,52,6,12,18,0.35,36,-9,https://www.eliteprospects.com/player/265300/michael-carcone
+401,Olen Zellweger ,D,D,Anaheim Ducks,55,6,12,18,0.33,18,2,https://www.eliteprospects.com/player/476596/olen-zellweger
+402,Oskar Sundqvist ,C,RW,St. Louis Blues,60,6,12,18,0.30,30,-5,https://www.eliteprospects.com/player/41621/oskar-sundqvist
+403,Sam Carrick ,C,RW,New York Rangers,73,6,12,18,0.25,54,3,https://www.eliteprospects.com/player/32716/sam-carrick
+404,Pavel Mintyukov ,D,D,Anaheim Ducks,61,5,13,18,0.30,18,0,https://www.eliteprospects.com/player/527453/pavel-mintyukov
+405,Pat Maroon ,LW,RW,Chicago Blackhawks,64,5,13,18,0.28,95,-13,https://www.eliteprospects.com/player/12063/pat-maroon
+406,Nick Perbix ,D,D,Tampa Bay Lightning,65,5,13,18,0.28,20,6,https://www.eliteprospects.com/player/380612/nick-perbix
+407,Nate Schmidt ,D,D,Florida Panthers,71,5,13,18,0.25,28,6,https://www.eliteprospects.com/player/38039/nate-schmidt
+408,Alexander Romanov ,D,D,New York Islanders,57,4,14,18,0.32,20,7,https://www.eliteprospects.com/player/396529/alexander-romanov
+409,Kevin Bahl ,D,D,Calgary Flames,63,3,15,18,0.29,33,-5,https://www.eliteprospects.com/player/248583/kevin-bahl
+410,Dylan DeMelo ,D,D,Winnipeg Jets,74,3,15,18,0.24,38,27,https://www.eliteprospects.com/player/45603/dylan-demelo
+411,Erik Gustafsson ,D,D,Detroit Red Wings,60,2,16,18,0.30,20,-19,https://www.eliteprospects.com/player/15372/erik-gustafsson
+412,Emil Lilleberg ,D,D,Tampa Bay Lightning,67,0,18,18,0.27,95,-3,https://www.eliteprospects.com/player/415548/emil-lilleberg
+413,Mitchell Chaffee ,RW,RW,Tampa Bay Lightning,61,12,5,17,0.28,19,-2,https://www.eliteprospects.com/player/296327/mitchell-chaffee
+414,Jonny Brodzinski ,C,RW,New York Rangers,43,10,7,17,0.40,4,9,https://www.eliteprospects.com/player/108294/jonny-brodzinski
+415,Erik Haula ,LW,C,New Jersey Devils,62,9,8,17,0.27,39,-9,https://www.eliteprospects.com/player/16042/erik-haula
+416,Frank Nazar ,C,RW,Chicago Blackhawks,45,7,10,17,0.38,22,-14,https://www.eliteprospects.com/player/574819/frank-nazar
+417,Tomas Tatar ,LW,RW,New Jersey Devils,68,7,10,17,0.25,20,-2,https://www.eliteprospects.com/player/17750/tomas-tatar
+418,Steven Lorentz ,C,LW,Toronto Maple Leafs,72,7,10,17,0.24,4,3,https://www.eliteprospects.com/player/204707/steven-lorentz
+419,Parker Kelly ,LW,C,Colorado Avalanche,72,7,10,17,0.24,29,-5,https://www.eliteprospects.com/player/258162/parker-kelly
+420,Nikolai Kovalenko ,RW,LW,,51,6,11,17,0.33,16,-8,https://www.eliteprospects.com/player/339499/nikolai-kovalenko
+421,Jalen Chatfield ,D,D,Carolina Hurricanes,73,6,11,17,0.23,34,21,https://www.eliteprospects.com/player/205562/jalen-chatfield
+422,A.J. Greer ,LW,LW,Florida Panthers,73,6,11,17,0.23,100,4,https://www.eliteprospects.com/player/151125/a.j.-greer
+423,Brett Leason ,RW,C,Anaheim Ducks,59,5,12,17,0.29,20,-1,https://www.eliteprospects.com/player/257755/brett-leason
+424,Alexei Toropchenko ,RW,LW,St. Louis Blues,73,4,13,17,0.23,23,3,https://www.eliteprospects.com/player/312825/alexei-toropchenko
+425,Brayden McNabb ,D,D,Vegas Golden Knights,73,4,13,17,0.23,24,38,https://www.eliteprospects.com/player/31079/brayden-mcnabb
+426,Nikita Zadorov ,D,D,Boston Bruins,73,4,13,17,0.23,137,14,https://www.eliteprospects.com/player/108648/nikita-zadorov
+427,Christopher Tanev ,D,D,Toronto Maple Leafs,67,2,15,17,0.25,18,26,https://www.eliteprospects.com/player/39601/christopher-tanev
+428,Mattias Janmark ,C,W,Edmonton Oilers,71,2,15,17,0.24,18,-5,https://www.eliteprospects.com/player/16629/mattias-janmark
+429,Connor Murphy ,D,D,Chicago Blackhawks,61,1,16,17,0.28,46,-2,https://www.eliteprospects.com/player/45417/connor-murphy
+430,Johnathan Kovacevic ,D,D,New Jersey Devils,75,1,16,17,0.23,68,14,https://www.eliteprospects.com/player/239820/johnathan-kovacevic
+431,Mark Jankowski ,C,C,,51,11,5,16,0.31,17,6,https://www.eliteprospects.com/player/146518/mark-jankowski
+432,Lawson Crouse ,LW,RW,Utah Hockey Club,73,10,6,16,0.22,32,-6,https://www.eliteprospects.com/player/205155/lawson-crouse
+433,Cole Koepke ,LW,RW,Boston Bruins,65,9,7,16,0.25,12,5,https://www.eliteprospects.com/player/300846/cole-koepke
+434,Robby Fabbri ,C,W,Anaheim Ducks,44,8,8,16,0.36,20,-6,https://www.eliteprospects.com/player/156923/robby-fabbri
+435,Jason Dickinson ,C,LW,Chicago Blackhawks,59,7,9,16,0.27,38,-11,https://www.eliteprospects.com/player/117018/jason-dickinson
+436,Jakob Pelletier ,LW,C,,42,5,11,16,0.38,6,7,https://www.eliteprospects.com/player/410525/jakob-pelletier
+437,Nick Bjugstad ,C,RW,Utah Hockey Club,58,5,11,16,0.28,14,-9,https://www.eliteprospects.com/player/40265/nick-bjugstad
+438,Tony DeAngelo ,D,D,New York Islanders,26,4,12,16,0.62,6,-3,https://www.eliteprospects.com/player/89818/tony-deangelo
+439,Zach Bogosian ,D,D,Minnesota Wild,73,4,12,16,0.22,41,0,https://www.eliteprospects.com/player/14440/zach-bogosian
+440,Nick Seeler ,D,D,Philadelphia Flyers,70,3,13,16,0.23,34,7,https://www.eliteprospects.com/player/107099/nick-seeler
+441,Andrew Peeke ,D,D,Boston Bruins,68,1,15,16,0.24,15,-11,https://www.eliteprospects.com/player/291905/andrew-peeke
+442,Trent Frederic ,C,W,,57,8,7,15,0.26,44,-14,https://www.eliteprospects.com/player/272221/trent-frederic
+443,Yegor Chinakhov ,W,W,Columbus Blue Jackets,29,7,8,15,0.52,4,-6,https://www.eliteprospects.com/player/519779/yegor-chinakhov
+444,Jack Drury ,C,C,,64,7,8,15,0.23,22,2,https://www.eliteprospects.com/player/283916/jack-drury
+445,Pontus Holmberg ,C,LW,Toronto Maple Leafs,60,6,9,15,0.25,25,0,https://www.eliteprospects.com/player/265859/pontus-holmberg
+446,Boone Jenner ,C,LW,Columbus Blue Jackets,16,5,10,15,0.94,4,2,https://www.eliteprospects.com/player/45587/boone-jenner
+447,Josh Doan ,RW,C,Utah Hockey Club,43,5,10,15,0.35,8,-3,https://www.eliteprospects.com/player/201817/josh-doan
+448,Colin Blackwell ,C,W,Dallas Stars,57,5,10,15,0.26,12,1,https://www.eliteprospects.com/player/128394/colin-blackwell
+449,Sean Kuraly ,C,LW,Columbus Blue Jackets,72,5,10,15,0.21,22,-3,https://www.eliteprospects.com/player/49938/sean-kuraly
+450,Cam York ,D,D,Philadelphia Flyers,59,4,11,15,0.25,22,-6,https://www.eliteprospects.com/player/290129/cam-york
+451,Uvis Balinskis ,D,D,Florida Panthers,67,4,11,15,0.22,21,-3,https://www.eliteprospects.com/player/217788/uvis-balinskis
+452,Zach Aston-Reese ,C,W,Columbus Blue Jackets,71,4,11,15,0.21,25,-14,https://www.eliteprospects.com/player/98068/zach-aston-reese
+453,Yegor Zamula ,D,D,Philadelphia Flyers,56,3,12,15,0.27,6,-15,https://www.eliteprospects.com/player/398138/yegor-zamula
+454,Olli Maatta ,D,D,,70,2,13,15,0.21,14,4,https://www.eliteprospects.com/player/43543/olli-maatta
+455,Brenden Dillon ,D,D,New Jersey Devils,75,2,13,15,0.20,65,8,https://www.eliteprospects.com/player/23790/brenden-dillon
+456,Josh Manson ,D,D,Colorado Avalanche,48,1,14,15,0.31,28,-6,https://www.eliteprospects.com/player/47762/josh-manson
+457,David Savard ,D,D,Montreal Canadiens,67,1,14,15,0.22,32,-9,https://www.eliteprospects.com/player/32878/david-savard
+458,Ian Cole ,D,D,Utah Hockey Club,74,1,14,15,0.20,69,-5,https://www.eliteprospects.com/player/11456/ian-cole
+459,David Perron ,LW,RW,Ottawa Senators,35,8,6,14,0.40,10,-4,https://www.eliteprospects.com/player/11123/david-perron
+460,Nathan Walker ,LW,RW,St. Louis Blues,66,8,6,14,0.21,59,-1,https://www.eliteprospects.com/player/101430/nathan-walker
+461,Fyodor Svechkov ,C,LW,Nashville Predators,43,7,7,14,0.33,8,-11,https://www.eliteprospects.com/player/693396/fyodor-svechkov
+462,Nico Sturm ,C,LW,,57,7,7,14,0.25,15,-4,https://www.eliteprospects.com/player/54457/nico-sturm
+463,Joe Veleno ,C,C,,66,7,7,14,0.21,13,-19,https://www.eliteprospects.com/player/271713/joe-veleno
+464,Michael Eyssimont ,C,LW,,69,7,7,14,0.20,59,2,https://www.eliteprospects.com/player/196603/michael-eyssimont
+465,Timothy Liljegren ,D,D,,59,6,8,14,0.24,32,-19,https://www.eliteprospects.com/player/224910/timothy-liljegren
+466,Yakov Trenin ,C,LW,Minnesota Wild,68,6,8,14,0.21,35,2,https://www.eliteprospects.com/player/277485/yakov-trenin
+467,Casey Cizikas ,C,C,New York Islanders,73,6,8,14,0.19,38,-14,https://www.eliteprospects.com/player/14960/casey-cizikas
+468,Gage Goncalves ,C,LW,Tampa Bay Lightning,51,5,9,14,0.27,10,3,https://www.eliteprospects.com/player/407591/gage-goncalves
+469,Mark Kastelic ,C,RW,Boston Bruins,61,5,9,14,0.23,106,-3,https://www.eliteprospects.com/player/276474/mark-kastelic
+470,Mario Ferraro ,D,D,San Jose Sharks,73,5,9,14,0.19,53,-29,https://www.eliteprospects.com/player/245622/mario-ferraro
+471,Will Borgen ,D,D,,76,5,9,14,0.18,38,-7,https://www.eliteprospects.com/player/248330/will-borgen
+472,Adam Boqvist ,D,D,,33,4,10,14,0.42,10,-5,https://www.eliteprospects.com/player/265684/adam-boqvist
+473,Kaiden Guhle ,D,D,Montreal Canadiens,46,4,10,14,0.30,29,3,https://www.eliteprospects.com/player/413363/kaiden-guhle
+474,Radek Faksa ,C,LW,St. Louis Blues,63,4,10,14,0.22,30,0,https://www.eliteprospects.com/player/98300/radek-faksa
+475,Oskar Back ,C,LW,Dallas Stars,66,4,10,14,0.21,6,1,https://www.eliteprospects.com/player/294263/oskar-back
+476,Isac Lundestrom ,C,LW,Anaheim Ducks,70,4,10,14,0.20,10,-7,https://www.eliteprospects.com/player/265570/isac-lundestrom
+477,Sean Walker ,D,D,Carolina Hurricanes,73,4,10,14,0.19,40,1,https://www.eliteprospects.com/player/160791/sean-walker
+478,Jamie Oleksiak ,D,D,Seattle Kraken,74,4,10,14,0.19,18,-6,https://www.eliteprospects.com/player/37832/jamie-oleksiak
+479,Drew Doughty ,D,D,Los Angeles Kings,25,3,11,14,0.56,20,4,https://www.eliteprospects.com/player/10430/drew-doughty
+480,Brett Pesce ,D,D,New Jersey Devils,66,3,11,14,0.21,23,-4,https://www.eliteprospects.com/player/121869/brett-pesce
+481,Jacob Trouba ,D,D,,71,1,13,14,0.20,64,-3,https://www.eliteprospects.com/player/90349/jacob-trouba
+482,Radko Gudas ,D,D,Anaheim Ducks,72,1,13,14,0.19,76,4,https://www.eliteprospects.com/player/18085/radko-gudas
+483,Ryan Suter ,D,D,St. Louis Blues,75,1,13,14,0.19,22,7,https://www.eliteprospects.com/player/8897/ryan-suter
+484,Pierre Engvall ,LW,RW,New York Islanders,53,8,5,13,0.25,14,-9,https://www.eliteprospects.com/player/147720/pierre-engvall
+485,Tanner Jeannot ,LW,RW,Los Angeles Kings,67,7,6,13,0.19,89,0,https://www.eliteprospects.com/player/200717/tanner-jeannot
+486,Max Pacioretty ,LW,LW,Toronto Maple Leafs,37,5,8,13,0.35,16,-2,https://www.eliteprospects.com/player/12461/max-pacioretty
+487,Nick Cousins ,C,LW,Ottawa Senators,47,5,8,13,0.28,39,-2,https://www.eliteprospects.com/player/45550/nick-cousins
+488,David Kampf ,C,W,Toronto Maple Leafs,58,5,8,13,0.22,14,-1,https://www.eliteprospects.com/player/160499/david-kampf
+489,Zachary L'Heureux ,LW,C,Nashville Predators,53,4,9,13,0.25,59,-5,https://www.eliteprospects.com/player/419758/zachary-l-heureux
+490,Mathieu Joseph ,RW,LW,St. Louis Blues,56,4,9,13,0.23,14,-6,https://www.eliteprospects.com/player/227640/mathieu-joseph
+491,Dmitri Kulikov ,D,D,Florida Panthers,68,4,9,13,0.19,38,13,https://www.eliteprospects.com/player/11866/dmitri-kulikov
+492,Carson Soucy ,D,D,,68,4,9,13,0.19,46,-12,https://www.eliteprospects.com/player/107449/carson-soucy
+493,Nick Blankenburg ,D,D,Nashville Predators,51,3,10,13,0.25,20,5,https://www.eliteprospects.com/player/233484/nick-blankenburg
+494,Colin Miller ,D,D,Winnipeg Jets,56,3,10,13,0.23,36,14,https://www.eliteprospects.com/player/61228/colin-miller
+495,Conor Timmins ,D,D,,61,3,10,13,0.21,28,8,https://www.eliteprospects.com/player/267584/conor-timmins
+496,Urho Vaakanainen ,D,D,,44,2,11,13,0.30,18,6,https://www.eliteprospects.com/player/180538/urho-vaakanainen
+497,Janis Moser ,D,D,Tampa Bay Lightning,45,2,11,13,0.29,18,19,https://www.eliteprospects.com/player/338571/janis-moser
+498,John Marino ,D,D,Utah Hockey Club,32,1,12,13,0.41,2,2,https://www.eliteprospects.com/player/278675/john-marino
+499,Ilya Lyubushkin ,D,D,Dallas Stars,71,1,12,13,0.18,30,7,https://www.eliteprospects.com/player/123109/ilya-lyubushkin
+500,Connor Clifton ,D,D,Buffalo Sabres,64,0,13,13,0.20,39,-2,https://www.eliteprospects.com/player/131370/connor-clifton
+501,Jakub Vrana ,LW,RW,,31,8,4,12,0.39,6,3,https://www.eliteprospects.com/player/101250/jakub-vrana
+502,Philipp Kurashev ,C,RW,Chicago Blackhawks,46,6,6,12,0.26,14,-28,https://www.eliteprospects.com/player/279238/philipp-kurashev
+503,Conor Geekie ,RW,C,Tampa Bay Lightning,49,6,6,12,0.24,14,-3,https://www.eliteprospects.com/player/571034/conor-geekie
+504,Kasperi Kapanen ,RW,LW,,58,6,6,12,0.21,14,-19,https://www.eliteprospects.com/player/92226/kasperi-kapanen
+505,Morgan Barron ,C,W,Winnipeg Jets,66,6,6,12,0.18,14,7,https://www.eliteprospects.com/player/195024/morgan-barron
+506,Alec Martinez ,D,D,Chicago Blackhawks,43,5,7,12,0.28,8,-15,https://www.eliteprospects.com/player/12531/alec-martinez
+507,Drew Helleson ,D,D,Anaheim Ducks,47,4,8,12,0.26,33,10,https://www.eliteprospects.com/player/369942/drew-helleson
+508,Mattias Samuelsson ,D,D,Buffalo Sabres,53,4,8,12,0.23,22,-2,https://www.eliteprospects.com/player/325127/mattias-samuelsson
+509,Zach Whitecloud ,D,D,Vegas Golden Knights,66,4,8,12,0.18,35,10,https://www.eliteprospects.com/player/202774/zach-whitecloud
+510,Sam Malinski ,D,D,Colorado Avalanche,68,3,9,12,0.18,14,10,https://www.eliteprospects.com/player/381044/sam-malinski
+511,Kevin Labanc ,RW,LW,Columbus Blue Jackets,34,2,10,12,0.35,12,1,https://www.eliteprospects.com/player/133841/kevin-labanc
+512,Jayden Struble ,D,D,Montreal Canadiens,47,2,10,12,0.26,50,-1,https://www.eliteprospects.com/player/465181/jayden-struble
+513,Declan Chisholm ,D,D,Minnesota Wild,61,2,10,12,0.20,10,-5,https://www.eliteprospects.com/player/363643/declan-chisholm
+514,Logan Stanley ,D,D,Winnipeg Jets,55,1,11,12,0.22,78,11,https://www.eliteprospects.com/player/240108/logan-stanley
+515,Anthony Duclair ,W,C,New York Islanders,43,7,4,11,0.26,10,-14,https://www.eliteprospects.com/player/98665/anthony-duclair
+516,Alexandre Texier ,C,LW,St. Louis Blues,31,6,5,11,0.35,10,-3,https://www.eliteprospects.com/player/296904/alexandre-texier
+517,Collin Graf ,RW,C,San Jose Sharks,29,5,6,11,0.38,6,-7,https://www.eliteprospects.com/player/201742/collin-graf
+518,Dakota Joshua ,C,LW,Vancouver Canucks,49,5,6,11,0.22,26,-11,https://www.eliteprospects.com/player/194948/dakota-joshua
+519,Nicolas Hague ,D,D,Vegas Golden Knights,62,5,6,11,0.18,40,-3,https://www.eliteprospects.com/player/253977/nicolas-hague
+520,Noel Acciari ,C,W,Pittsburgh Penguins,75,5,6,11,0.15,16,-26,https://www.eliteprospects.com/player/214725/noel-acciari
+521,Juuso Parssinen ,C,LW,,45,4,7,11,0.24,17,-9,https://www.eliteprospects.com/player/396656/juuso-parssinen
+522,Cole Smith ,LW,LW,Nashville Predators,62,4,7,11,0.18,69,-9,https://www.eliteprospects.com/player/242238/cole-smith
+523,Michael McCarron ,RW,C,Nashville Predators,65,4,7,11,0.17,100,-18,https://www.eliteprospects.com/player/135703/michael-mccarron
+524,Alexander Holtz ,RW,RW,Vegas Golden Knights,49,3,8,11,0.22,8,-3,https://www.eliteprospects.com/player/344808/alexander-holtz
+525,John Beecher ,C,LW,Boston Bruins,72,3,8,11,0.15,24,-8,https://www.eliteprospects.com/player/373899/john-beecher
+526,Ben Chiarot ,D,D,Detroit Red Wings,72,3,8,11,0.15,61,-14,https://www.eliteprospects.com/player/33875/ben-chiarot
+527,Artyom Zub ,D,D,Ottawa Senators,48,2,9,11,0.23,28,-2,https://www.eliteprospects.com/player/182436/artyom-zub
+528,Matthew Poitras ,C,RW,Boston Bruins,33,1,10,11,0.33,8,-5,https://www.eliteprospects.com/player/661581/matthew-poitras
+529,Zac Jones ,D,D,New York Rangers,42,1,10,11,0.26,24,1,https://www.eliteprospects.com/player/364649/zac-jones
+530,Trevor Lewis ,C,RW,Los Angeles Kings,53,5,5,10,0.19,20,-5,https://www.eliteprospects.com/player/10461/trevor-lewis
+531,Elmer Soderblom ,LW,RW,Detroit Red Wings,23,4,6,10,0.43,6,2,https://www.eliteprospects.com/player/350706/elmer-soderblom
+532,Denton Mateychuk ,D,D,Columbus Blue Jackets,35,4,6,10,0.29,16,-4,https://www.eliteprospects.com/player/570931/denton-mateychuk
+533,Nathan Bastian ,RW,C,New Jersey Devils,55,4,6,10,0.18,29,-3,https://www.eliteprospects.com/player/245157/nathan-bastian
+534,Beck Malenstyn ,LW,RW,Buffalo Sabres,69,4,6,10,0.14,27,-16,https://www.eliteprospects.com/player/247477/beck-malenstyn
+535,Dennis Cholowski ,D,D,,38,3,7,10,0.26,10,0,https://www.eliteprospects.com/player/247137/dennis-cholowski
+536,T.J. Brodie ,D,D,Chicago Blackhawks,54,2,8,10,0.19,18,-18,https://www.eliteprospects.com/player/19170/t.j.-brodie
+537,Henry Thrun ,D,D,San Jose Sharks,52,1,9,10,0.19,30,-16,https://www.eliteprospects.com/player/445218/henry-thrun
+538,Brandon Carlo ,D,D,,75,1,9,10,0.13,35,5,https://www.eliteprospects.com/player/120965/brandon-carlo
+539,Ty Emberson ,D,D,Edmonton Oilers,67,0,10,10,0.15,18,-7,https://www.eliteprospects.com/player/365043/ty-emberson
+540,Adam Edstrom ,C,W,New York Rangers,51,5,4,9,0.18,27,-5,https://www.eliteprospects.com/player/349951/adam-edstrom
+541,Tye Kartye ,C,C,Seattle Kraken,58,5,4,9,0.16,38,-16,https://www.eliteprospects.com/player/424242/tye-kartye
+542,Vinnie Hinostroza ,RW,LW,,33,4,5,9,0.27,10,1,https://www.eliteprospects.com/player/91243/vinnie-hinostroza
+543,Cam Atkinson ,RW,RW,Tampa Bay Lightning,38,4,5,9,0.24,11,-4,https://www.eliteprospects.com/player/19166/cam-atkinson
+544,William Carrier ,LW,LW,Carolina Hurricanes,39,4,5,9,0.23,16,2,https://www.eliteprospects.com/player/88662/william-carrier
+545,Justin Barron ,D,D,,53,4,5,9,0.17,23,-13,https://www.eliteprospects.com/player/294613/justin-barron
+546,Marat Khusnutdinov ,C,LW,,67,4,5,9,0.13,20,-10,https://www.eliteprospects.com/player/552045/marat-khusnutdinov
+547,Kyle MacLean ,C,LW,New York Islanders,72,4,5,9,0.13,14,-11,https://www.eliteprospects.com/player/201488/kyle-maclean
+548,Jesse Puljujarvi ,RW,LW,Pittsburgh Penguins,26,3,6,9,0.35,10,-1,https://www.eliteprospects.com/player/152117/jesse-puljujarvi
+549,Brayden Pachal ,D,D,Calgary Flames,66,3,6,9,0.14,84,2,https://www.eliteprospects.com/player/201561/brayden-pachal
+550,Scott Perunovich ,D,D,,33,2,7,9,0.27,10,-2,https://www.eliteprospects.com/player/300906/scott-perunovich
+551,Daniil Miromanov ,D,RW,Calgary Flames,43,2,7,9,0.21,12,2,https://www.eliteprospects.com/player/289399/daniil-miromanov
+552,Derek Forbort ,D,D,Vancouver Canucks,48,2,7,9,0.19,38,-7,https://www.eliteprospects.com/player/31265/derek-forbort
+553,Jonas Siegenthaler ,D,D,New Jersey Devils,55,2,7,9,0.16,44,9,https://www.eliteprospects.com/player/105407/jonas-siegenthaler
+554,Tomas Nosek ,LW,C,Florida Panthers,53,1,8,9,0.17,10,7,https://www.eliteprospects.com/player/102439/tomas-nosek
+555,Simon Benoit ,D,D,Toronto Maple Leafs,70,1,8,9,0.13,54,5,https://www.eliteprospects.com/player/254891/simon-benoit
+556,Kaedan Korczak ,D,D,Vegas Golden Knights,34,0,9,9,0.26,0,8,https://www.eliteprospects.com/player/295911/kaedan-korczak
+557,Sam Colangelo ,RW,C,Anaheim Ducks,23,7,1,8,0.35,2,-4,https://www.eliteprospects.com/player/386333/sam-colangelo
+558,Ivan Ivan ,C,C,Colorado Avalanche,40,5,3,8,0.20,8,-9,https://www.eliteprospects.com/player/427962/ivan-ivan
+559,Rasmus Kupari ,C,RW,Winnipeg Jets,59,5,3,8,0.14,16,-1,https://www.eliteprospects.com/player/319079/rasmus-kupari
+560,Barclay Goodrow ,W,C,San Jose Sharks,68,5,3,8,0.12,69,-33,https://www.eliteprospects.com/player/45398/barclay-goodrow
+561,Brock McGinn ,LW,RW,Anaheim Ducks,26,4,4,8,0.31,0,1,https://www.eliteprospects.com/player/76486/brock-mcginn
+562,Brett Berard ,LW,LW,New York Rangers,30,4,4,8,0.27,8,-8,https://www.eliteprospects.com/player/201740/brett-berard
+563,Wyatt Kaiser ,D,D,Chicago Blackhawks,50,4,4,8,0.16,14,-2,https://www.eliteprospects.com/player/201852/wyatt-kaiser
+564,Kevin Rooney ,C,C,Calgary Flames,61,4,4,8,0.13,14,-6,https://www.eliteprospects.com/player/180925/kevin-rooney
+565,Erik Brannstrom ,D,D,Vancouver Canucks,28,3,5,8,0.29,17,-4,https://www.eliteprospects.com/player/255167/erik-brannstrom
+566,Jordan Greenway ,LW,RW,Buffalo Sabres,34,3,5,8,0.24,45,-4,https://www.eliteprospects.com/player/183455/jordan-greenway
+567,Jakub Lauko ,C,W,,48,3,5,8,0.17,43,-11,https://www.eliteprospects.com/player/273830/jakub-lauko
+568,Luca Del Bel Belluz ,C,C,Columbus Blue Jackets,15,2,6,8,0.53,0,2,https://www.eliteprospects.com/player/525669/luca-del-bel-belluz
+569,Justin Kirkland ,C,LW,Calgary Flames,21,2,6,8,0.38,11,6,https://www.eliteprospects.com/player/63133/justin-kirkland
+570,Carl Grundstrom ,RW,LW,San Jose Sharks,47,2,6,8,0.17,18,-15,https://www.eliteprospects.com/player/113516/carl-grundstrom
+571,Jan Rutta ,D,D,San Jose Sharks,51,2,6,8,0.16,28,-6,https://www.eliteprospects.com/player/18090/jan-rutta
+572,Albert Johansson ,D,D,Detroit Red Wings,52,2,6,8,0.15,26,-6,https://www.eliteprospects.com/player/349991/albert-johansson
+573,Shakir Mukhamadullin ,D,D,San Jose Sharks,29,1,7,8,0.28,6,-7,https://www.eliteprospects.com/player/552042/shakir-mukhamadullin
+574,Marc Del Gaizo ,D,D,Nashville Predators,37,1,7,8,0.22,19,0,https://www.eliteprospects.com/player/201481/marc-del-gaizo
+575,Nolan Allan ,D,D,Chicago Blackhawks,43,1,7,8,0.19,16,-13,https://www.eliteprospects.com/player/482413/nolan-allan
+576,Jake Christiansen ,D,D,Columbus Blue Jackets,66,1,7,8,0.12,11,7,https://www.eliteprospects.com/player/297920/jake-christiansen
+577,Ryan Lomberg ,LW,LW,Calgary Flames,70,1,7,8,0.11,57,-6,https://www.eliteprospects.com/player/76376/ryan-lomberg
+578,Hendrix Lapierre ,C,C,Washington Capitals,27,0,8,8,0.30,4,-3,https://www.eliteprospects.com/player/201904/hendrix-lapierre
+579,Calvin de Haan ,D,D,,47,0,8,8,0.17,12,-4,https://www.eliteprospects.com/player/23814/calvin-de-haan
+580,Josh Mahura ,D,D,Seattle Kraken,59,0,8,8,0.14,16,4,https://www.eliteprospects.com/player/166669/josh-mahura
+581,Marc Gatcomb ,C,RW,New York Islanders,30,6,1,7,0.23,11,0,https://www.eliteprospects.com/player/446950/marc-gatcomb
+582,Aatu Raty ,C,C,Vancouver Canucks,25,5,2,7,0.28,10,0,https://www.eliteprospects.com/player/467384/aatu-raty
+583,Anthony Mantha ,RW,LW,Calgary Flames,13,4,3,7,0.54,11,6,https://www.eliteprospects.com/player/104045/anthony-mantha
+584,Ethen Frank ,RW,C,Washington Capitals,22,4,3,7,0.32,6,6,https://www.eliteprospects.com/player/247909/ethen-frank
+585,Mikael Pyyhtia ,LW,C,Columbus Blue Jackets,47,4,3,7,0.15,6,-11,https://www.eliteprospects.com/player/470710/mikael-pyyhtia
+586,Tyler Kleven ,D,D,Ottawa Senators,70,4,3,7,0.10,25,-4,https://www.eliteprospects.com/player/536644/tyler-kleven
+587,Luke Glendening ,C,RW,Tampa Bay Lightning,73,4,3,7,0.10,10,-9,https://www.eliteprospects.com/player/38233/luke-glendening
+588,Hampus Lindholm ,D,D,Boston Bruins,17,3,4,7,0.41,4,-4,https://www.eliteprospects.com/player/34882/hampus-lindholm
+589,Sean Durzi ,D,D,Utah Hockey Club,22,3,4,7,0.32,13,-2,https://www.eliteprospects.com/player/268973/sean-durzi
+590,Connor Dewar ,C,LW,,41,3,4,7,0.17,14,-3,https://www.eliteprospects.com/player/283843/connor-dewar
+591,Tyler Motte ,C,W,Detroit Red Wings,46,3,4,7,0.15,6,-11,https://www.eliteprospects.com/player/151824/tyler-motte
+592,Henri Jokiharju ,D,D,,52,3,4,7,0.13,14,4,https://www.eliteprospects.com/player/277056/henri-jokiharju
+593,Troy Stecher ,D,D,Edmonton Oilers,59,3,4,7,0.12,27,0,https://www.eliteprospects.com/player/59042/troy-stecher
+594,Colton Dach ,C,LW,Chicago Blackhawks,25,2,5,7,0.28,17,-3,https://www.eliteprospects.com/player/413126/colton-dach
+595,Jacob Bernard-Docker ,D,D,,31,2,5,7,0.23,11,6,https://www.eliteprospects.com/player/281697/jacob-bernard-docker
+596,Vladislav Kolyachonok ,D,D,,34,2,5,7,0.21,10,-11,https://www.eliteprospects.com/player/490232/vladislav-kolyachonok
+597,Jake Bean ,D,D,Calgary Flames,55,2,5,7,0.13,8,-3,https://www.eliteprospects.com/player/199660/jake-bean
+598,Scott Mayfield ,D,D,New York Islanders,58,2,5,7,0.12,27,13,https://www.eliteprospects.com/player/45906/scott-mayfield
+599,Victor Mancini ,D,D,,24,1,6,7,0.29,4,-2,https://www.eliteprospects.com/player/290051/victor-mancini
+600,Klim Kostin ,C,W,San Jose Sharks,35,1,6,7,0.20,27,-6,https://www.eliteprospects.com/player/312823/klim-kostin
+601,Jacob Moverare ,D,D,Los Angeles Kings,43,1,6,7,0.16,10,3,https://www.eliteprospects.com/player/212726/jacob-moverare
+602,Christian Fischer ,RW,C,,46,1,6,7,0.15,11,-6,https://www.eliteprospects.com/player/226901/christian-fischer
+603,Matt Dumba ,D,D,Dallas Stars,54,1,6,7,0.13,56,-1,https://www.eliteprospects.com/player/53542/matt-dumba
+604,Ty Dellandrea ,C,W,San Jose Sharks,59,1,6,7,0.12,47,-22,https://www.eliteprospects.com/player/399353/ty-dellandrea
+605,Haydn Fleury ,D,D,Winnipeg Jets,36,0,7,7,0.19,6,-9,https://www.eliteprospects.com/player/119392/haydn-fleury
+606,Cole Schwindt ,RW,C,Vegas Golden Knights,40,0,7,7,0.18,0,2,https://www.eliteprospects.com/player/431915/cole-schwindt
+607,Jacob Bryson ,D,D,Buffalo Sabres,45,0,7,7,0.16,10,-7,https://www.eliteprospects.com/player/253923/jacob-bryson
+608,Jimmy Vesey ,LW,LW,,36,4,2,6,0.17,0,-3,https://www.eliteprospects.com/player/121865/jimmy-vesey
+609,Noah Gregor ,LW,RW,,43,4,2,6,0.14,28,-17,https://www.eliteprospects.com/player/162892/noah-gregor
+610,Jani Nyman ,RW,RW,Seattle Kraken,9,3,3,6,0.67,2,-2,https://www.eliteprospects.com/player/611825/jani-nyman
+611,Jack Thompson ,D,D,San Jose Sharks,24,3,3,6,0.25,10,-6,https://www.eliteprospects.com/player/201878/jack-thompson
+612,Tyler Tucker ,D,D,St. Louis Blues,32,3,3,6,0.19,55,7,https://www.eliteprospects.com/player/399243/tyler-tucker
+613,Oliver Wahlstrom ,RW,RW,,43,3,3,6,0.14,37,-6,https://www.eliteprospects.com/player/241370/oliver-wahlstrom
+614,Sam Lafferty ,C,LW,Buffalo Sabres,51,3,3,6,0.12,26,-11,https://www.eliteprospects.com/player/259043/sam-lafferty
+615,Anthony Richard ,C,LW,Philadelphia Flyers,15,2,4,6,0.40,0,-3,https://www.eliteprospects.com/player/155661/anthony-richard
+616,Max Sasson ,C,C,Vancouver Canucks,24,2,4,6,0.25,0,3,https://www.eliteprospects.com/player/462545/max-sasson
+617,Tyson Jost ,C,C,Carolina Hurricanes,30,2,4,6,0.20,14,2,https://www.eliteprospects.com/player/148111/tyson-jost
+618,Lian Bichsel ,D,D,Dallas Stars,30,2,4,6,0.20,33,3,https://www.eliteprospects.com/player/665087/lian-bichsel
+619,David Gustafsson ,C,C,Winnipeg Jets,31,2,4,6,0.19,7,10,https://www.eliteprospects.com/player/293796/david-gustafsson
+620,Justin Dowling ,C,W,New Jersey Devils,47,2,4,6,0.13,4,-4,https://www.eliteprospects.com/player/23320/justin-dowling
+621,Jansen Harkins ,C,LW,Anaheim Ducks,55,2,4,6,0.11,21,-10,https://www.eliteprospects.com/player/160158/jansen-harkins
+622,Zemgus Girgensons ,W,C,Tampa Bay Lightning,73,2,4,6,0.08,40,-5,https://www.eliteprospects.com/player/59843/zemgus-girgensons
+623,Nils Aman ,C,W,Vancouver Canucks,18,1,5,6,0.33,2,-1,https://www.eliteprospects.com/player/343876/nils-aman
+624,Phil Di Giuseppe ,LW,RW,Vancouver Canucks,20,1,5,6,0.30,4,-2,https://www.eliteprospects.com/player/62746/phil-di-giuseppe
+625,Jordan Oesterle ,D,D,,28,1,5,6,0.21,4,1,https://www.eliteprospects.com/player/84700/jordan-oesterle
+626,Emil Andrae ,D,D,Philadelphia Flyers,35,1,5,6,0.17,14,-4,https://www.eliteprospects.com/player/394716/emil-andrae
+627,Jeff Petry ,D,D,Detroit Red Wings,37,1,5,6,0.16,12,-3,https://www.eliteprospects.com/player/12265/jeff-petry
+628,Joel Hanley ,D,D,Calgary Flames,44,1,5,6,0.14,17,7,https://www.eliteprospects.com/player/33730/joel-hanley
+629,Parker Wotherspoon ,D,D,Boston Bruins,47,1,5,6,0.13,8,-10,https://www.eliteprospects.com/player/195951/parker-wotherspoon
+630,Travis Hamonic ,D,D,Ottawa Senators,56,1,5,6,0.11,17,-17,https://www.eliteprospects.com/player/17519/travis-hamonic
+631,Arber Xhekaj ,D,D,Montreal Canadiens,69,1,5,6,0.09,118,-13,https://www.eliteprospects.com/player/424429/arber-xhekaj
+632,Luke Schenn ,D,D,,70,1,5,6,0.09,45,-6,https://www.eliteprospects.com/player/11400/luke-schenn
+633,Seamus Casey ,D,D,New Jersey Devils,10,4,1,5,0.50,0,5,https://www.eliteprospects.com/player/526229/seamus-casey
+634,Nikita Nesterenko ,C,LW,Anaheim Ducks,14,4,1,5,0.36,2,0,https://www.eliteprospects.com/player/295642/nikita-nesterenko
+635,Tyson Kozak ,C,LW,Buffalo Sabres,20,3,2,5,0.25,2,-1,https://www.eliteprospects.com/player/408687/tyson-kozak
+636,Jonathan Lekkerimaki ,RW,RW,Vancouver Canucks,22,3,2,5,0.23,2,-7,https://www.eliteprospects.com/player/649220/jonathan-lekkerimaki
+637,Rodrigo Abols ,C,LW,Philadelphia Flyers,21,2,3,5,0.24,4,-10,https://www.eliteprospects.com/player/154962/rodrigo-abols
+638,Ethan Del Mastro ,D,D,Chicago Blackhawks,22,2,3,5,0.23,6,-5,https://www.eliteprospects.com/player/525637/ethan-del-mastro
+639,Liam Ohgren ,LW,LW,Minnesota Wild,24,2,3,5,0.21,2,-6,https://www.eliteprospects.com/player/535698/liam-ohgren
+640,Daniel Sprong ,RW,LW,,24,2,3,5,0.21,2,1,https://www.eliteprospects.com/player/231299/daniel-sprong
+641,Ryan Shea ,D,D,Pittsburgh Penguins,32,2,3,5,0.16,8,-9,https://www.eliteprospects.com/player/232931/ryan-shea
+642,Matt Rempe ,RW,C,New York Rangers,36,2,3,5,0.14,63,4,https://www.eliteprospects.com/player/476674/matt-rempe
+643,Samuel Helenius ,C,C,Los Angeles Kings,41,2,3,5,0.12,21,0,https://www.eliteprospects.com/player/554237/samuel-helenius
+644,Juuso Valimaki ,D,D,Utah Hockey Club,43,2,3,5,0.12,14,-5,https://www.eliteprospects.com/player/221525/juuso-valimaki
+645,Curtis Lazar ,C,W,New Jersey Devils,45,2,3,5,0.11,14,-3,https://www.eliteprospects.com/player/81116/curtis-lazar
+646,Jon Merrill ,D,D,Minnesota Wild,63,2,3,5,0.08,18,-5,https://www.eliteprospects.com/player/20712/jon-merrill
+647,Calle Jarnkrok ,C,W,Toronto Maple Leafs,11,1,4,5,0.45,4,0,https://www.eliteprospects.com/player/6020/calle-jarnkrok
+648,Nick DeSimone ,D,D,Utah Hockey Club,15,1,4,5,0.33,0,1,https://www.eliteprospects.com/player/226606/nick-desimone
+649,Adam Wilsby ,D,D,Nashville Predators,23,1,4,5,0.22,6,3,https://www.eliteprospects.com/player/295070/adam-wilsby
+650,Isaiah George ,D,D,New York Islanders,33,1,4,5,0.15,6,-3,https://www.eliteprospects.com/player/526091/isaiah-george
+651,Matthew Highmore ,C,W,Ottawa Senators,33,1,4,5,0.15,6,-7,https://www.eliteprospects.com/player/130125/matthew-highmore
+652,Derek Ryan ,C,W,Edmonton Oilers,35,1,4,5,0.14,12,-5,https://www.eliteprospects.com/player/67660/derek-ryan
+653,Devin Shore ,C,C,Minnesota Wild,51,1,4,5,0.10,6,-6,https://www.eliteprospects.com/player/149937/devin-shore
+654,Justin Holl ,D,D,Detroit Red Wings,65,1,4,5,0.08,16,-6,https://www.eliteprospects.com/player/46905/justin-holl
+655,Artyom Levshunov ,D,D,Chicago Blackhawks,10,0,5,5,0.50,4,-14,https://www.eliteprospects.com/player/619217/artyom-levshunov
+656,Olle Lycksell ,W,C,Philadelphia Flyers,18,0,5,5,0.28,2,-3,https://www.eliteprospects.com/player/265290/olle-lycksell
+657,Dennis Gilbert ,D,D,,26,0,5,5,0.19,50,-4,https://www.eliteprospects.com/player/267396/dennis-gilbert
+658,Jack Johnson ,D,D,Columbus Blue Jackets,38,0,5,5,0.13,2,-8,https://www.eliteprospects.com/player/9205/jack-johnson
+659,Nils Lundkvist ,D,D,Dallas Stars,39,0,5,5,0.13,20,4,https://www.eliteprospects.com/player/384079/nils-lundkvist
+660,Jonah Gadjovich ,LW,LW,Florida Panthers,34,4,0,4,0.12,33,-5,https://www.eliteprospects.com/player/252476/jonah-gadjovich
+661,Arthur Kaliyev ,RW,LW,New York Rangers,14,3,1,4,0.29,2,2,https://www.eliteprospects.com/player/316114/arthur-kaliyev
+662,Louis Crevier ,D,D,Chicago Blackhawks,30,3,1,4,0.13,10,-6,https://www.eliteprospects.com/player/410534/louis-crevier
+663,Logan Mailloux ,D,D,Montreal Canadiens,7,2,2,4,0.57,6,-5,https://www.eliteprospects.com/player/582695/logan-mailloux
+664,Fraser Minten ,C,LW,Toronto Maple Leafs,15,2,2,4,0.27,0,-4,https://www.eliteprospects.com/player/529809/fraser-minten
+665,Kieffer Bellows ,LW,LW,Nashville Predators,15,2,2,4,0.27,6,-3,https://www.eliteprospects.com/player/247945/kieffer-bellows
+666,Miles Wood ,LW,LW,Colorado Avalanche,32,2,2,4,0.13,48,-5,https://www.eliteprospects.com/player/131890/miles-wood
+667,Scott Morrow ,D,D,Carolina Hurricanes,7,1,3,4,0.57,0,2,https://www.eliteprospects.com/player/201892/scott-morrow
+668,John Klingberg ,D,D,Edmonton Oilers,11,1,3,4,0.36,8,0,https://www.eliteprospects.com/player/21717/john-klingberg
+669,Oliver Kylington ,D,D,,15,1,3,4,0.27,4,-2,https://www.eliteprospects.com/player/142238/oliver-kylington
+670,Ivan Miroshnichenko ,LW,LW,Washington Capitals,18,1,3,4,0.22,0,1,https://www.eliteprospects.com/player/526255/ivan-miroshnichenko
+671,Jordan Harris ,D,D,Columbus Blue Jackets,29,1,3,4,0.14,6,-5,https://www.eliteprospects.com/player/321687/jordan-harris
+672,Philippe Myers ,D,D,Toronto Maple Leafs,29,1,3,4,0.14,11,-7,https://www.eliteprospects.com/player/223515/philippe-myers
+673,Ross Johnston ,LW,RW,Anaheim Ducks,43,1,3,4,0.09,72,-2,https://www.eliteprospects.com/player/106154/ross-johnston
+674,Zack Ostapchuk ,C,LW,,49,1,3,4,0.08,35,-9,https://www.eliteprospects.com/player/476029/zack-ostapchuk
+675,Ryan Graves ,D,D,Pittsburgh Penguins,54,1,3,4,0.07,29,-14,https://www.eliteprospects.com/player/103763/ryan-graves
+676,Rory Kerins ,C,LW,Calgary Flames,5,0,4,4,0.80,0,3,https://www.eliteprospects.com/player/504297/rory-kerins
+677,Juha Jaaska ,LW,RW,Carolina Hurricanes,18,0,4,4,0.22,9,0,https://www.eliteprospects.com/player/222123/juha-jaaska
+678,Brendan Smith ,D,D,Dallas Stars,29,0,4,4,0.14,31,-9,https://www.eliteprospects.com/player/12506/brendan-smith
+679,Nikita Chibrikov ,LW,RW,Winnipeg Jets,4,2,1,3,0.75,0,1,https://www.eliteprospects.com/player/527467/nikita-chibrikov
+680,Vinni Lettieri ,C,RW,Boston Bruins,19,2,1,3,0.16,4,-8,https://www.eliteprospects.com/player/118656/vinni-lettieri
+681,Zack MacEwen ,C,RW,Ottawa Senators,21,2,1,3,0.14,21,0,https://www.eliteprospects.com/player/223475/zack-macewen
+682,Walker Duehr ,RW,RW,,24,2,1,3,0.13,0,-11,https://www.eliteprospects.com/player/234647/walker-duehr
+683,Landon Slaggert ,LW,C,Chicago Blackhawks,25,2,1,3,0.12,17,-6,https://www.eliteprospects.com/player/418245/landon-slaggert
+684,Lucas Carlsson ,D,D,San Jose Sharks,4,1,2,3,0.75,6,0,https://www.eliteprospects.com/player/212334/lucas-carlsson
+685,David Jiricek ,D,D,,12,1,2,3,0.25,6,0,https://www.eliteprospects.com/player/559522/david-jiricek
+686,Tyson Barrie ,D,D,Calgary Flames,13,1,2,3,0.23,4,-7,https://www.eliteprospects.com/player/15127/tyson-barrie
+687,Maveric Lamoureux ,D,D,Utah Hockey Club,15,1,2,3,0.20,42,3,https://www.eliteprospects.com/player/578989/maveric-lamoureux
+688,Andre Lee ,LW,C,Los Angeles Kings,19,1,2,3,0.16,11,-5,https://www.eliteprospects.com/player/350001/andre-lee
+689,Akil Thomas ,C,W,Los Angeles Kings,23,1,2,3,0.13,7,-4,https://www.eliteprospects.com/player/364033/akil-thomas
+690,Simon Nemec ,D,D,New Jersey Devils,23,1,2,3,0.13,12,-8,https://www.eliteprospects.com/player/589605/simon-nemec
+691,Nick Leddy ,D,D,St. Louis Blues,24,1,2,3,0.13,2,7,https://www.eliteprospects.com/player/38067/nick-leddy
+692,Owen Pickering ,D,D,Pittsburgh Penguins,25,1,2,3,0.12,6,-5,https://www.eliteprospects.com/player/580641/owen-pickering
+693,Mitchell Stephens ,C,C,Seattle Kraken,28,1,2,3,0.11,6,-8,https://www.eliteprospects.com/player/186392/mitchell-stephens
+694,Erik Johnson ,D,D,,28,1,2,3,0.11,13,-3,https://www.eliteprospects.com/player/9207/erik-johnson
+695,Matt Nieto ,LW,RW,Pittsburgh Penguins,31,1,2,3,0.10,2,-8,https://www.eliteprospects.com/player/20723/matt-nieto
+696,Spencer Stastney ,D,D,Nashville Predators,20,0,3,3,0.15,2,-6,https://www.eliteprospects.com/player/283918/spencer-stastney
+697,Matt Kessel ,D,D,St. Louis Blues,29,0,3,3,0.10,10,-3,https://www.eliteprospects.com/player/276197/matt-kessel
+698,Pierre-Olivier Joseph ,D,D,,47,0,3,3,0.06,45,-22,https://www.eliteprospects.com/player/284911/pierre-olivier-joseph
+699,Vincent Desharnais ,D,D,,51,0,3,3,0.06,45,-9,https://www.eliteprospects.com/player/264690/vincent-desharnais
+700,Cameron Lund ,C,W,San Jose Sharks,3,2,0,2,0.67,2,-2,https://www.eliteprospects.com/player/603638/cameron-lund
+701,Austin Watson ,RW,LW,Detroit Red Wings,7,2,0,2,0.29,17,0,https://www.eliteprospects.com/player/33753/austin-watson
+702,Marc McLaughlin ,C,RW,Boston Bruins,12,2,0,2,0.17,0,-1,https://www.eliteprospects.com/player/300610/marc-mclaughlin
+703,Joshua Roy ,W,C,Montreal Canadiens,12,2,0,2,0.17,2,-6,https://www.eliteprospects.com/player/483757/joshua-roy
+704,Linus Karlsson ,RW,C,Vancouver Canucks,15,2,0,2,0.13,6,3,https://www.eliteprospects.com/player/314906/linus-karlsson
+705,Adam Klapka ,RW,LW,Calgary Flames,21,2,0,2,0.10,27,-5,https://www.eliteprospects.com/player/318741/adam-klapka
+706,Mike Sgarbossa ,C,C,Washington Capitals,3,1,1,2,0.67,2,2,https://www.eliteprospects.com/player/23663/mike-sgarbossa
+707,Alex Steeves ,C,W,Toronto Maple Leafs,7,1,1,2,0.29,0,3,https://www.eliteprospects.com/player/354353/alex-steeves
+708,Ty Smith ,D,D,Carolina Hurricanes,8,1,1,2,0.25,4,1,https://www.eliteprospects.com/player/281814/ty-smith
+709,Valtteri Puustinen ,RW,LW,Pittsburgh Penguins,10,1,1,2,0.20,4,-4,https://www.eliteprospects.com/player/332963/valtteri-puustinen
+710,John Hayden ,C,RW,Seattle Kraken,14,1,1,2,0.14,19,2,https://www.eliteprospects.com/player/151828/john-hayden
+711,Cole Reinhardt ,LW,LW,Ottawa Senators,17,1,1,2,0.12,15,-4,https://www.eliteprospects.com/player/281691/cole-reinhardt
+712,Nicolas Aube-Kubel ,RW,C,,22,1,1,2,0.09,19,-5,https://www.eliteprospects.com/player/151146/nicolas-aube-kubel
+713,Nicolas Deslauriers ,LW,D,Philadelphia Flyers,25,1,1,2,0.08,15,-8,https://www.eliteprospects.com/player/37437/nicolas-deslauriers
+714,Andreas Englund ,D,D,,27,1,1,2,0.07,41,-5,https://www.eliteprospects.com/player/115148/andreas-englund
+715,John Ludvig ,D,D,Colorado Avalanche,8,0,2,2,0.25,6,-4,https://www.eliteprospects.com/player/350236/john-ludvig
+716,Tyler Johnson ,C,RW,Boston Bruins,9,0,2,2,0.22,10,-1,https://www.eliteprospects.com/player/12078/tyler-johnson
+717,Dylan McIlrath ,D,D,Washington Capitals,11,0,2,2,0.18,14,1,https://www.eliteprospects.com/player/37170/dylan-mcilrath
+718,Noah Philp ,C,RW,Edmonton Oilers,12,0,2,2,0.17,2,1,https://www.eliteprospects.com/player/198306/noah-philp
+719,Oliver Kapanen ,C,C,Montreal Canadiens,12,0,2,2,0.17,2,-4,https://www.eliteprospects.com/player/639018/oliver-kapanen
+720,Grant Hutton ,D,D,New York Islanders,13,0,2,2,0.15,4,1,https://www.eliteprospects.com/player/180691/grant-hutton
+721,Brennan Othmann ,LW,LW,New York Rangers,16,0,2,2,0.13,2,6,https://www.eliteprospects.com/player/529248/brennan-othmann
+722,Robert Bortuzzo ,D,D,Utah Hockey Club,16,0,2,2,0.13,22,-2,https://www.eliteprospects.com/player/12524/robert-bortuzzo
+723,Mike Reilly ,D,D,New York Islanders,17,0,2,2,0.12,2,-1,https://www.eliteprospects.com/player/106295/mike-reilly
+724,Marc-Edouard Vlasic ,D,D,San Jose Sharks,18,0,2,2,0.11,0,-7,https://www.eliteprospects.com/player/10218/marc-edouard-vlasic
+725,Elias Pettersson ,D,D,Vancouver Canucks,20,0,2,2,0.10,6,-5,https://www.eliteprospects.com/player/641020/elias-pettersson
+726,Liam O'Brien ,LW,C,Utah Hockey Club,27,0,2,2,0.07,50,1,https://www.eliteprospects.com/player/84724/liam-o-brien
+727,Kyle Burroughs ,D,D,Los Angeles Kings,29,0,2,2,0.07,31,2,https://www.eliteprospects.com/player/87758/kyle-burroughs
+728,Hudson Fasching ,RW,RW,New York Islanders,34,0,2,2,0.06,4,-7,https://www.eliteprospects.com/player/114801/hudson-fasching
+729,Keaton Middleton ,D,D,Colorado Avalanche,34,0,2,2,0.06,26,0,https://www.eliteprospects.com/player/249597/keaton-middleton
+730,Ryan Reaves ,RW,LW,Toronto Maple Leafs,35,0,2,2,0.06,28,-2,https://www.eliteprospects.com/player/14003/ryan-reaves
+731,Justin Sourdif ,RW,C,Florida Panthers,1,1,0,1,1.00,0,1,https://www.eliteprospects.com/player/290346/justin-sourdif
+732,Dylan Duke ,LW,C,Tampa Bay Lightning,2,1,0,1,0.50,0,0,https://www.eliteprospects.com/player/512163/dylan-duke
+733,Isaak Phillips ,D,D,Chicago Blackhawks,3,1,0,1,0.33,0,0,https://www.eliteprospects.com/player/416750/isaak-phillips
+734,Declan Carlile ,D,D,Tampa Bay Lightning,3,1,0,1,0.33,0,2,https://www.eliteprospects.com/player/276195/declan-carlile
+735,Parker Ford ,C,RW,Winnipeg Jets,3,1,0,1,0.33,2,1,https://www.eliteprospects.com/player/394933/parker-ford
+736,Joona Koppanen ,C,LW,Pittsburgh Penguins,5,1,0,1,0.20,0,-2,https://www.eliteprospects.com/player/279893/joona-koppanen
+737,Kailer Yamamoto ,RW,RW,Utah Hockey Club,5,1,0,1,0.20,2,0,https://www.eliteprospects.com/player/247915/kailer-yamamoto
+738,Clark Bishop ,C,LW,Calgary Flames,6,1,0,1,0.17,0,-2,https://www.eliteprospects.com/player/191376/clark-bishop
+739,Ethan Cardwell ,RW,C,San Jose Sharks,6,1,0,1,0.17,2,-2,https://www.eliteprospects.com/player/201866/ethan-cardwell
+740,Lucas Condotta ,C,C,Montreal Canadiens,7,1,0,1,0.14,0,-2,https://www.eliteprospects.com/player/238558/lucas-condotta
+741,Matej Blumel ,RW,LW,Dallas Stars,7,1,0,1,0.14,0,-1,https://www.eliteprospects.com/player/272376/matej-blumel
+742,Calum Ritchie ,C,C,Colorado Avalanche,7,1,0,1,0.14,0,-7,https://www.eliteprospects.com/player/603108/calum-ritchie
+743,Cal Burke ,C,RW,Vegas Golden Knights,7,1,0,1,0.14,2,2,https://www.eliteprospects.com/player/248438/cal-burke
+744,Andreas Athanasiou ,C,W,Chicago Blackhawks,8,1,0,1,0.13,0,-1,https://www.eliteprospects.com/player/86009/andreas-athanasiou
+745,Tanner Laczynski ,C,C,Vegas Golden Knights,8,1,0,1,0.13,6,-1,https://www.eliteprospects.com/player/234312/tanner-laczynski
+746,Arshdeep Bains ,LW,LW,Vancouver Canucks,13,1,0,1,0.08,0,-5,https://www.eliteprospects.com/player/290353/arshdeep-bains
+747,Bokondji Imama ,LW,RW,Pittsburgh Penguins,16,1,0,1,0.06,30,2,https://www.eliteprospects.com/player/151711/bokondji-imama
+748,Patrick Giles ,C,RW,,17,1,0,1,0.06,0,-3,https://www.eliteprospects.com/player/363655/patrick-giles
+749,Chris Wagner ,RW,C,Colorado Avalanche,24,1,0,1,0.04,9,-7,https://www.eliteprospects.com/player/39429/chris-wagner
+750,Andrew Poturalski ,C,RW,San Jose Sharks,3,0,1,1,0.33,2,-1,https://www.eliteprospects.com/player/109632/andrew-poturalski
+751,Ozzy Wiesblatt ,W,C,Nashville Predators,4,0,1,1,0.25,0,2,https://www.eliteprospects.com/player/201810/ozzy-wiesblatt
+752,Dryden Hunt ,LW,RW,Calgary Flames,4,0,1,1,0.25,0,-3,https://www.eliteprospects.com/player/84609/dryden-hunt
+753,Matthew Savoie ,C,W,Edmonton Oilers,4,0,1,1,0.25,0,-4,https://www.eliteprospects.com/player/476028/matthew-savoie
+754,Justin Hryckowian ,C,LW,Dallas Stars,5,0,1,1,0.20,0,1,https://www.eliteprospects.com/player/296493/justin-hryckowian
+755,Arttu Hyry ,RW,C,Dallas Stars,5,0,1,1,0.20,0,0,https://www.eliteprospects.com/player/470647/arttu-hyry
+756,Chad Ruhwedel ,D,D,New York Rangers,5,0,1,1,0.20,0,2,https://www.eliteprospects.com/player/37927/chad-ruhwedel
+757,Nolan Foote ,LW,RW,New Jersey Devils,5,0,1,1,0.20,0,0,https://www.eliteprospects.com/player/240385/nolan-foote
+758,Brad Lambert ,C,RW,Winnipeg Jets,5,0,1,1,0.20,2,0,https://www.eliteprospects.com/player/414961/brad-lambert
+759,Ilya Solovyov ,D,D,Calgary Flames,5,0,1,1,0.20,2,-3,https://www.eliteprospects.com/player/490245/ilya-solovyov
+760,Luca Cagnoni ,D,D,San Jose Sharks,5,0,1,1,0.20,4,-4,https://www.eliteprospects.com/player/529803/luca-cagnoni
+761,Isak Rosen ,W,C,Buffalo Sabres,6,0,1,1,0.17,0,-2,https://www.eliteprospects.com/player/420269/isak-rosen
+762,Kevin Gravel ,D,D,Nashville Predators,6,0,1,1,0.17,0,3,https://www.eliteprospects.com/player/35674/kevin-gravel
+763,Samuel Poulin ,W,C,Pittsburgh Penguins,6,0,1,1,0.17,2,1,https://www.eliteprospects.com/player/290171/samuel-poulin
+764,Georgii Merkulov ,C,C,Boston Bruins,6,0,1,1,0.17,2,-1,https://www.eliteprospects.com/player/395630/georgii-merkulov
+765,Helge Grans ,D,D,Philadelphia Flyers,6,0,1,1,0.17,2,0,https://www.eliteprospects.com/player/395302/helge-grans
+766,Erik Gudbranson ,D,D,Columbus Blue Jackets,6,0,1,1,0.17,2,0,https://www.eliteprospects.com/player/31282/erik-gudbranson
+767,Joseph LaBate ,C,LW,Columbus Blue Jackets,6,0,1,1,0.17,10,1,https://www.eliteprospects.com/player/75066/joseph-labate
+768,Drake Caggiula ,LW,C,Edmonton Oilers,7,0,1,1,0.14,5,0,https://www.eliteprospects.com/player/97396/drake-caggiula
+769,Ryan Winterton ,F,F,Seattle Kraken,8,0,1,1,0.13,0,-7,https://www.eliteprospects.com/player/651883/ryan-winterton
+770,T.J. Tynan ,C,C,Colorado Avalanche,8,0,1,1,0.13,4,-1,https://www.eliteprospects.com/player/45686/t.j.-tynan
+771,Josh Brown ,D,D,Edmonton Oilers,8,0,1,1,0.13,9,-1,https://www.eliteprospects.com/player/82512/josh-brown
+772,Dominik Shine ,C,RW,Detroit Red Wings,9,0,1,1,0.11,15,-1,https://www.eliteprospects.com/player/45858/dominik-shine
+773,Daniil Gushchin ,LW,RW,San Jose Sharks,10,0,1,1,0.10,6,-2,https://www.eliteprospects.com/player/512924/daniil-gushchin
+774,Cale Fleury ,D,D,Seattle Kraken,11,0,1,1,0.09,0,-1,https://www.eliteprospects.com/player/200710/cale-fleury
+775,Ian Mitchell ,D,D,Boston Bruins,11,0,1,1,0.09,2,-1,https://www.eliteprospects.com/player/201362/ian-mitchell
+776,Owen Beck ,C,C,Montreal Canadiens,12,0,1,1,0.08,0,-2,https://www.eliteprospects.com/player/647942/owen-beck
+777,Brendan Gaunce ,C,LW,Minnesota Wild,12,0,1,1,0.08,4,-4,https://www.eliteprospects.com/player/76290/brendan-gaunce
+778,Emil Bemstrom ,C,W,Pittsburgh Penguins,13,0,1,1,0.08,0,0,https://www.eliteprospects.com/player/313359/emil-bemstrom
+779,Patrick Brown ,C,RW,Boston Bruins,13,0,1,1,0.08,6,-2,https://www.eliteprospects.com/player/75038/patrick-brown
+780,Ville Heinola ,D,D,Winnipeg Jets,17,0,1,1,0.06,4,7,https://www.eliteprospects.com/player/428795/ville-heinola
+781,Max Jones ,LW,RW,,17,0,1,1,0.06,14,-9,https://www.eliteprospects.com/player/233448/max-jones
+782,Joey Anderson ,RW,LW,Chicago Blackhawks,18,0,1,1,0.06,0,-2,https://www.eliteprospects.com/player/247964/joey-anderson
+783,Jack St. Ivany ,D,D,Pittsburgh Penguins,19,0,1,1,0.05,17,-3,https://www.eliteprospects.com/player/300076/jack-st.-ivany
+784,Matt Martin ,LW,LW,New York Islanders,24,0,1,1,0.04,10,-2,https://www.eliteprospects.com/player/19225/matt-martin
+785,Jeremy Lauzon ,D,D,Nashville Predators,28,0,1,1,0.04,37,-4,https://www.eliteprospects.com/player/213715/jeremy-lauzon
+786,Nikolas Matinpalo ,D,D,Ottawa Senators,33,0,1,1,0.03,14,-1,https://www.eliteprospects.com/player/277430/nikolas-matinpalo
+787,Gabriel Landeskog ,LW,RW,Colorado Avalanche,0,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/10393/gabriel-landeskog
+788,Tucker Poolman ,D,D,Colorado Avalanche,0,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/118006/tucker-poolman
+789,Torey Krug ,D,D,St. Louis Blues,0,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/37747/torey-krug
+790,Logan Couture ,C,LW,San Jose Sharks,0,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/11109/logan-couture
+791,Jesper Fast ,RW,RW,Carolina Hurricanes,0,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/10967/jesper-fast
+792,Shea Weber ,D,D,,0,0,0,0,0,0,0,https://www.eliteprospects.com/player/9505/shea-weber
+793,Scott Sabourin ,RW,LW,San Jose Sharks,1,0,0,0,0.00,0,-2,https://www.eliteprospects.com/player/45588/scott-sabourin
+794,Steven Santini ,D,D,Tampa Bay Lightning,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/96780/steven-santini
+795,Mason Morelli ,LW,C,Vegas Golden Knights,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/188784/mason-morelli
+796,Angus Crookshank ,LW,LW,Ottawa Senators,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/201687/angus-crookshank
+797,Carter Mazur ,LW,LW,Detroit Red Wings,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/201766/carter-mazur
+798,Daemon Hunt ,D,D,Minnesota Wild,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/201837/daemon-hunt
+799,Julien Gauthier ,RW,RW,New York Islanders,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/213464/julien-gauthier
+800,Adam Ginning ,D,D,Philadelphia Flyers,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/281968/adam-ginning
+801,Cam Dineen ,D,D,Edmonton Oilers,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/268444/cam-dineen
+802,Sam Rinzel ,D,D,Chicago Blackhawks,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/670126/sam-rinzel
+803,Oliver Moore ,C,C,Chicago Blackhawks,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/603195/oliver-moore
+804,Dalibor Dvorsky ,C,RW,St. Louis Blues,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/527424/dalibor-dvorsky
+805,Ville Koivunen ,W,C,Pittsburgh Penguins,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/525660/ville-koivunen
+806,Jack Finley ,C,RW,Tampa Bay Lightning,1,0,0,0,0.00,0,1,https://www.eliteprospects.com/player/477357/jack-finley
+807,Michael Milne ,LW,LW,Minnesota Wild,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/477344/michael-milne
+808,Daniil Misyul ,D,D,New Jersey Devils,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/395127/daniil-misyul
+809,Samuel Bolduc ,D,D,New York Islanders,1,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/356985/samuel-bolduc
+810,Rafael Harvey-Pinard ,LW,LW,Montreal Canadiens,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/354123/rafael-harvey-pinard
+811,Mike Hardman ,W,C,New Jersey Devils,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/353521/mike-hardman
+812,Jacob Quillan ,C,LW,Toronto Maple Leafs,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/318454/jacob-quillan
+813,Jacob Melanson ,RW,RW,Seattle Kraken,1,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/473633/jacob-melanson
+814,Dakota Mermis ,D,D,Utah Hockey Club,1,0,0,0,0.00,2,-2,https://www.eliteprospects.com/player/56311/dakota-mermis
+815,Owen Sillinger ,C,LW,Columbus Blue Jackets,1,0,0,0,0.00,2,0,https://www.eliteprospects.com/player/199994/owen-sillinger
+816,Nate Clurman ,D,D,Pittsburgh Penguins,1,0,0,0,0.00,2,0,https://www.eliteprospects.com/player/353810/nate-clurman
+817,Grigori Denisenko ,LW,LW,Vegas Golden Knights,1,0,0,0,0.00,2,0,https://www.eliteprospects.com/player/312827/grigori-denisenko
+818,Kyle Capobianco ,D,D,Dallas Stars,1,0,0,0,0.00,4,-2,https://www.eliteprospects.com/player/225186/kyle-capobianco
+819,Brian Halonen ,LW,RW,New Jersey Devils,2,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/419044/brian-halonen
+820,Joakim Kemell ,RW,RW,Nashville Predators,2,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/526043/joakim-kemell
+821,James Malatesta ,LW,C,Columbus Blue Jackets,2,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/484164/james-malatesta
+822,Oskar Olausson ,W,C,Colorado Avalanche,2,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/430916/oskar-olausson
+823,Ryan Suzuki ,C,C,Carolina Hurricanes,2,0,0,0,0.00,0,1,https://www.eliteprospects.com/player/418345/ryan-suzuki
+824,Donovan Sebrango ,D,D,Ottawa Senators,2,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/397738/donovan-sebrango
+825,Jason Polin ,RW,RW,Colorado Avalanche,2,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/284027/jason-polin
+826,Jan Jenik ,W,C,Ottawa Senators,2,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/247318/jan-jenik
+827,Chase Bradley ,LW,C,Colorado Avalanche,2,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/201795/chase-bradley
+828,Rasmus Asplund ,C,W,Florida Panthers,2,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/139616/rasmus-asplund
+829,Jani Hakanpaa ,D,D,Toronto Maple Leafs,2,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/45342/jani-hakanpaa
+830,Robert Hagg ,D,D,Vegas Golden Knights,2,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/27397/robert-hagg
+831,Liam Foudy ,C,RW,New York Islanders,2,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/397650/liam-foudy
+832,Alex Barre-Boulet ,C,W,Montreal Canadiens,2,0,0,0,0.00,2,-2,https://www.eliteprospects.com/player/227670/alex-barre-boulet
+833,Josh Dunne ,C,LW,Buffalo Sabres,2,0,0,0,0.00,5,-3,https://www.eliteprospects.com/player/272225/josh-dunne
+834,Connor Mackey ,D,D,New York Rangers,2,0,0,0,0.00,5,0,https://www.eliteprospects.com/player/316315/connor-mackey
+835,Colin White ,C,RW,San Jose Sharks,3,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/183810/colin-white
+836,Reese Johnson ,C,RW,Minnesota Wild,3,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/279121/reese-johnson
+837,Brett Murray ,LW,RW,Buffalo Sabres,3,0,0,0,0.00,0,-2,https://www.eliteprospects.com/player/267772/brett-murray
+838,Guillaume Brisebois ,D,D,Vancouver Canucks,3,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/213397/guillaume-brisebois
+839,Sonny Milano ,LW,LW,Washington Capitals,3,0,0,0,0.00,0,-3,https://www.eliteprospects.com/player/189415/sonny-milano
+840,Travis Boyd ,C,RW,Minnesota Wild,3,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/38621/travis-boyd
+841,Nathan Legare ,RW,LW,New Jersey Devils,3,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/296698/nathan-legare
+842,Alexander Petrovic ,D,D,Dallas Stars,3,0,0,0,0.00,2,-3,https://www.eliteprospects.com/player/32778/alexander-petrovic
+843,Jake Lucchini ,C,LW,Nashville Predators,3,0,0,0,0.00,2,-2,https://www.eliteprospects.com/player/102374/jake-lucchini
+844,Ryan Johnson ,D,D,Buffalo Sabres,3,0,0,0,0.00,4,-2,https://www.eliteprospects.com/player/290138/ryan-johnson
+845,Riley Stillman ,D,D,Carolina Hurricanes,3,0,0,0,0.00,5,-1,https://www.eliteprospects.com/player/252469/riley-stillman
+846,Jeff Malott ,LW,LW,Los Angeles Kings,3,0,0,0,0.00,5,0,https://www.eliteprospects.com/player/266305/jeff-malott
+847,Rutger McGroarty ,C,W,Pittsburgh Penguins,4,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/526095/rutger-mcgroarty
+848,Jacob Gaucher ,C,C,Philadelphia Flyers,4,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/290162/jacob-gaucher
+849,Dominic Toninato ,C,C,Winnipeg Jets,4,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/122004/dominic-toninato
+850,Shane Bowers ,C,RW,New Jersey Devils,4,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/216102/shane-bowers
+851,Corey Schueneman ,D,D,St. Louis Blues,4,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/118661/corey-schueneman
+852,Vasili Ponomaryov ,C,LW,Pittsburgh Penguins,4,0,0,0,0.00,2,-1,https://www.eliteprospects.com/player/448947/vasili-ponomaryov
+853,Jett Luchanko ,C,C,Philadelphia Flyers,4,0,0,0,0.00,2,-3,https://www.eliteprospects.com/player/879166/jett-luchanko
+854,William Lagesson ,D,D,Detroit Red Wings,4,0,0,0,0.00,2,-2,https://www.eliteprospects.com/player/86158/william-lagesson
+855,Jeffrey Viel ,LW,RW,Boston Bruins,4,0,0,0,0.00,9,-1,https://www.eliteprospects.com/player/213441/jeffrey-viel
+856,Tye Felhaber ,LW,C,Colorado Avalanche,5,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/251448/tye-felhaber
+857,Maxwell Crozier ,D,D,Tampa Bay Lightning,5,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/281733/maxwell-crozier
+858,Alexander Alexeyev ,D,D,Washington Capitals,5,0,0,0,0.00,0,4,https://www.eliteprospects.com/player/333787/alexander-alexeyev
+859,Fabian Lysell ,RW,LW,Boston Bruins,5,0,0,0,0.00,2,0,https://www.eliteprospects.com/player/472769/fabian-lysell
+860,Samuel Honzek ,LW,C,Calgary Flames,5,0,0,0,0.00,2,-1,https://www.eliteprospects.com/player/578968/samuel-honzek
+861,Caleb Jones ,D,D,Los Angeles Kings,5,0,0,0,0.00,2,-2,https://www.eliteprospects.com/player/199902/caleb-jones
+862,Alexander Nylander ,W,C,Toronto Maple Leafs,5,0,0,0,0.00,4,-1,https://www.eliteprospects.com/player/212641/alexander-nylander
+863,Conor Sheary ,LW,RW,Tampa Bay Lightning,5,0,0,0,0.00,4,-2,https://www.eliteprospects.com/player/94484/conor-sheary
+864,Mark Friedman ,D,D,Vancouver Canucks,5,0,0,0,0.00,10,-4,https://www.eliteprospects.com/player/107113/mark-friedman
+865,Ben Hutton ,D,D,Vegas Golden Knights,6,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/78150/ben-hutton
+866,Jimmy Schuldt ,D,D,San Jose Sharks,6,0,0,0,0.00,0,-1,https://www.eliteprospects.com/player/196941/jimmy-schuldt
+867,Tristan Luneau ,D,D,Anaheim Ducks,6,0,0,0,0.00,2,-5,https://www.eliteprospects.com/player/491564/tristan-luneau
+868,Riley Tufte ,LW,RW,Boston Bruins,6,0,0,0,0.00,4,-3,https://www.eliteprospects.com/player/291903/riley-tufte
+869,Dylan Coghlan ,D,D,Winnipeg Jets,6,0,0,0,0.00,4,1,https://www.eliteprospects.com/player/247901/dylan-coghlan
+870,Nikita Grebyonkin ,LW,RW,Toronto Maple Leafs,7,0,0,0,0.00,2,-3,https://www.eliteprospects.com/player/652832/nikita-grebyonkin
+871,Matt Benning ,D,D,San Jose Sharks,7,0,0,0,0.00,4,-5,https://www.eliteprospects.com/player/29261/matt-benning
+872,Ben Meyers ,C,LW,Seattle Kraken,8,0,0,0,0.00,2,-2,https://www.eliteprospects.com/player/300838/ben-meyers
+873,Matt Stienburg ,C,C,Colorado Avalanche,8,0,0,0,0.00,22,0,https://www.eliteprospects.com/player/267112/matt-stienburg
+874,Brendan Brisson ,LW,RW,Vegas Golden Knights,9,0,0,0,0.00,0,-3,https://www.eliteprospects.com/player/299642/brendan-brisson
+875,Raphael Lavoie ,C,RW,Vegas Golden Knights,9,0,0,0,0.00,2,-4,https://www.eliteprospects.com/player/335712/raphael-lavoie
+876,Nikita Prishchepov ,C,LW,Colorado Avalanche,10,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/691679/nikita-prishchepov
+877,Kevin Korchinski ,D,D,Chicago Blackhawks,11,0,0,0,0.00,4,-7,https://www.eliteprospects.com/player/516605/kevin-korchinski
+878,Jonas Rondbjerg ,LW,RW,Vegas Golden Knights,12,0,0,0,0.00,0,-3,https://www.eliteprospects.com/player/220099/jonas-rondbjerg
+879,Tobias Bjornfot ,D,D,Florida Panthers,13,0,0,0,0.00,2,-2,https://www.eliteprospects.com/player/344751/tobias-bjornfot
+880,Givani Smith ,RW,LW,,13,0,0,0,0.00,18,-3,https://www.eliteprospects.com/player/252472/givani-smith
+881,Michael Callahan ,D,D,Boston Bruins,14,0,0,0,0.00,7,-4,https://www.eliteprospects.com/player/201479/michael-callahan
+882,Jere Innala ,LW,LW,Colorado Avalanche,15,0,0,0,0.00,2,-3,https://www.eliteprospects.com/player/277079/jere-innala
+883,Michael Pezzetta ,LW,C,Montreal Canadiens,18,0,0,0,0.00,10,-4,https://www.eliteprospects.com/player/269038/michael-pezzetta
+884,Travis Dermott ,D,D,,19,0,0,0,0.00,2,-3,https://www.eliteprospects.com/player/214673/travis-dermott
+885,Kurtis MacDermid ,LW,D,New Jersey Devils,22,0,0,0,0.00,23,-4,https://www.eliteprospects.com/player/98183/kurtis-macdermid
+886,Ben Jones ,C,C,Minnesota Wild,26,0,0,0,0.00,10,-3,https://www.eliteprospects.com/player/273677/ben-jones
+887,Noah Juulsen ,D,D,Vancouver Canucks,35,0,0,0,0.00,21,-12,https://www.eliteprospects.com/player/199905/noah-juulsen
+888,Nicklas Backstrom ,C,C,Washington Capitals,0,0,0,0,0,0,0,https://www.eliteprospects.com/player/3682/nicklas-backstrom
+889,T.J. Oshie ,RW,RW,Washington Capitals,0,0,0,0,0,0,0,https://www.eliteprospects.com/player/9209/t.j.-oshie
+890,Ryan Ellis ,D,D,Philadelphia Flyers,0,0,0,0,0,0,0,https://www.eliteprospects.com/player/14012/ryan-ellis
+891,Evander Kane ,LW,RW,Edmonton Oilers,0,0,0,0,0,0,0,https://www.eliteprospects.com/player/14657/evander-kane
+892,Kevin Connauton ,D,D,Utah Hockey Club,0,0,0,0,0,0,0,https://www.eliteprospects.com/player/38032/kevin-connauton
+893,Mackenzie MacEachern ,LW,LW,St. Louis Blues,0,0,0,0,0,0,0,https://www.eliteprospects.com/player/183505/mackenzie-maceachern
+894,Colton White ,D,D,New Jersey Devils,0,0,0,0,0,0,0,https://www.eliteprospects.com/player/204911/colton-white
+895,Alec Regula ,D,D,Edmonton Oilers,0,0,0,0,0,0,0,https://www.eliteprospects.com/player/283940/alec-regula
+896,Henrik Rybinski ,W,C,Washington Capitals,0,0,0,0,0,0,0,https://www.eliteprospects.com/player/351688/henrik-rybinski
+897,Maxence Guenette ,D,D,Ottawa Senators,0,0,0,0,0,0,0,https://www.eliteprospects.com/player/410616/maxence-guenette
+898,Kyle McDonald ,RW,LW,Dallas Stars,0,0,0,0,0,0,0,https://www.eliteprospects.com/player/413652/kyle-mcdonald
+899,Jack Williams ,RW,RW,Columbus Blue Jackets,0,0,0,0,0,0,0,https://www.eliteprospects.com/player/498800/jack-williams
+900,Karsen Dorwart ,F,F,Philadelphia Flyers,0,0,0,0,0,0,0,https://www.eliteprospects.com/player/561422/karsen-dorwart
+901,Christian Kyrou ,D,D,Dallas Stars,0,0,0,0,0,0,0,https://www.eliteprospects.com/player/582653/christian-kyrou
+902,Matthew Wood ,LW,C,Nashville Predators,0,0,0,0,0,0,0,https://www.eliteprospects.com/player/603587/matthew-wood
+903,Jimmy Snuggerud ,RW,RW,St. Louis Blues,0,0,0,0,0,0,0,https://www.eliteprospects.com/player/623832/jimmy-snuggerud
